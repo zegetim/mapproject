@@ -1,0 +1,1892 @@
+{
+    "AL": {
+        "2016": {
+            "gdp_nominal_millions": 10835.1,
+            "gdp_per_capita_nominal": 3770.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 11770.8,
+            "gdp_per_capita_nominal": 4100.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 13016.9,
+            "gdp_per_capita_nominal": 4540.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 13917.9,
+            "gdp_per_capita_nominal": 4880.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 13379.5,
+            "gdp_per_capita_nominal": 4710.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 15243.1,
+            "gdp_per_capita_nominal": 5420.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 18068.1,
+            "gdp_per_capita_nominal": 6500.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 21730.5,
+            "gdp_per_capita_nominal": null
+        },
+        "2024": {
+            "gdp_nominal_millions": 25000.7,
+            "gdp_per_capita_nominal": null
+        },
+        "2025": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        }
+    },
+    "AT": {
+        "2016": {
+            "gdp_nominal_millions": 355665.6,
+            "gdp_per_capita_nominal": 40690.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 367294.9,
+            "gdp_per_capita_nominal": 41760.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 383234.3,
+            "gdp_per_capita_nominal": 43360.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 395706.8,
+            "gdp_per_capita_nominal": 44570.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 380317.9,
+            "gdp_per_capita_nominal": 42650.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 406231.5,
+            "gdp_per_capita_nominal": 45380.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 449382.2,
+            "gdp_per_capita_nominal": 49640.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 477837.3,
+            "gdp_per_capita_nominal": 52330.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 494087.6,
+            "gdp_per_capita_nominal": 53830.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 512813.0,
+            "gdp_per_capita_nominal": 55710.0
+        }
+    },
+    "BA": {
+        "2016": {
+            "gdp_nominal_millions": 15474.3,
+            "gdp_per_capita_nominal": 4410.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 16260.5,
+            "gdp_per_capita_nominal": 4640.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 17354.2,
+            "gdp_per_capita_nominal": 4960.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 18296.5,
+            "gdp_per_capita_nominal": 5240.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 17755.9,
+            "gdp_per_capita_nominal": 5110.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 20014.7,
+            "gdp_per_capita_nominal": 5800.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 23324.1,
+            "gdp_per_capita_nominal": 6790.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 25523.8,
+            "gdp_per_capita_nominal": 7460.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 27483.1,
+            "gdp_per_capita_nominal": 8050.0
+        },
+        "2025": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        }
+    },
+    "BE": {
+        "2016": {
+            "gdp_nominal_millions": 428467.1,
+            "gdp_per_capita_nominal": 37810.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 443407.2,
+            "gdp_per_capita_nominal": 38980.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 459491.8,
+            "gdp_per_capita_nominal": 40210.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 479444.9,
+            "gdp_per_capita_nominal": 41730.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 463750.9,
+            "gdp_per_capita_nominal": 40190.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 506047.2,
+            "gdp_per_capita_nominal": 43680.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 561678.2,
+            "gdp_per_capita_nominal": 48090.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 601866.5,
+            "gdp_per_capita_nominal": 51090.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 619914.3,
+            "gdp_per_capita_nominal": 52310.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 642015.3,
+            "gdp_per_capita_nominal": 53930.0
+        }
+    },
+    "BG": {
+        "2016": {
+            "gdp_nominal_millions": 48751.4,
+            "gdp_per_capita_nominal": 7070.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 52501.0,
+            "gdp_per_capita_nominal": 7720.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 55999.7,
+            "gdp_per_capita_nominal": 8340.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 61194.4,
+            "gdp_per_capita_nominal": 9250.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 61855.6,
+            "gdp_per_capita_nominal": 9440.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 71343.9,
+            "gdp_per_capita_nominal": 10960.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 86078.2,
+            "gdp_per_capita_nominal": 13310.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 94525.1,
+            "gdp_per_capita_nominal": 14660.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 104767.2,
+            "gdp_per_capita_nominal": 16260.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 116018.3,
+            "gdp_per_capita_nominal": 18060.0
+        }
+    },
+    "CH": {
+        "2016": {
+            "gdp_nominal_millions": 631447.6,
+            "gdp_per_capita_nominal": 75360.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 625926.6,
+            "gdp_per_capita_nominal": 74010.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 627171.6,
+            "gdp_per_capita_nominal": 73630.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 657857.6,
+            "gdp_per_capita_nominal": 76680.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 663105.6,
+            "gdp_per_capita_nominal": 76710.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 710646.0,
+            "gdp_per_capita_nominal": 81610.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 815869.1,
+            "gdp_per_capita_nominal": 92900.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 858396.6,
+            "gdp_per_capita_nominal": 96280.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 896448.7,
+            "gdp_per_capita_nominal": 99430.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 925874.8,
+            "gdp_per_capita_nominal": 101810.0
+        }
+    },
+    "CY": {
+        "2016": {
+            "gdp_nominal_millions": 19013.8,
+            "gdp_per_capita_nominal": 21930.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 20312.4,
+            "gdp_per_capita_nominal": 23230.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 21807.8,
+            "gdp_per_capita_nominal": 24660.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 23400.9,
+            "gdp_per_capita_nominal": 26110.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 22373.6,
+            "gdp_per_capita_nominal": 24630.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 25679.9,
+            "gdp_per_capita_nominal": 27850.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 29645.4,
+            "gdp_per_capita_nominal": 31560.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 32439.2,
+            "gdp_per_capita_nominal": 33870.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 34770.2,
+            "gdp_per_capita_nominal": 35670.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 36483.5,
+            "gdp_per_capita_nominal": 36850.0
+        }
+    },
+    "CZ": {
+        "2016": {
+            "gdp_nominal_millions": 179145.9,
+            "gdp_per_capita_nominal": 17040.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 196738.7,
+            "gdp_per_capita_nominal": 18700.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 213505.4,
+            "gdp_per_capita_nominal": 20270.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 229406.7,
+            "gdp_per_capita_nominal": 21740.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 220310.6,
+            "gdp_per_capita_nominal": 20980.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 246012.3,
+            "gdp_per_capita_nominal": 23430.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 286976.8,
+            "gdp_per_capita_nominal": 26670.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 319099.1,
+            "gdp_per_capita_nominal": 29330.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 320786.5,
+            "gdp_per_capita_nominal": 29440.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 346583.4,
+            "gdp_per_capita_nominal": 31810.0
+        }
+    },
+    "DE": {
+        "2016": {
+            "gdp_nominal_millions": 3195210.0,
+            "gdp_per_capita_nominal": 39030.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 3333110.0,
+            "gdp_per_capita_nominal": 40630.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 3434030.0,
+            "gdp_per_capita_nominal": 41800.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 3537280.0,
+            "gdp_per_capita_nominal": 43030.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 3450720.0,
+            "gdp_per_capita_nominal": 42020.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 3682340.0,
+            "gdp_per_capita_nominal": 44910.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 3989390.0,
+            "gdp_per_capita_nominal": 48340.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 4219310.0,
+            "gdp_per_capita_nominal": 50660.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 4328970.0,
+            "gdp_per_capita_nominal": 51830.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 4469910.0,
+            "gdp_per_capita_nominal": 53520.0
+        }
+    },
+    "DK": {
+        "2016": {
+            "gdp_nominal_millions": 282265.1,
+            "gdp_per_capita_nominal": 49270.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 294355.0,
+            "gdp_per_capita_nominal": 51060.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 301017.3,
+            "gdp_per_capita_nominal": 51950.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 308546.2,
+            "gdp_per_capita_nominal": 53040.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 312118.3,
+            "gdp_per_capita_nominal": 53540.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 343318.6,
+            "gdp_per_capita_nominal": 58640.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 380567.4,
+            "gdp_per_capita_nominal": 64430.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 374173.6,
+            "gdp_per_capita_nominal": 62910.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 392400.7,
+            "gdp_per_capita_nominal": 65650.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 410372.0,
+            "gdp_per_capita_nominal": 68310.0
+        }
+    },
+    "EA": {
+        "2016": {
+            "gdp_nominal_millions": 10904868.5,
+            "gdp_per_capita_nominal": 32170.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 11318040.7,
+            "gdp_per_capita_nominal": 33320.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 11694023.9,
+            "gdp_per_capita_nominal": 34350.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 12084516.3,
+            "gdp_per_capita_nominal": 35410.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 11565084.6,
+            "gdp_per_capita_nominal": 33840.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 12560301.1,
+            "gdp_per_capita_nominal": 36750.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 13690695.8,
+            "gdp_per_capita_nominal": 39860.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 14663455.4,
+            "gdp_per_capita_nominal": 41950.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 15233197.7,
+            "gdp_per_capita_nominal": 43410.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 15822253.1,
+            "gdp_per_capita_nominal": 44950.0
+        }
+    },
+    "EA12": {
+        "2016": {
+            "gdp_nominal_millions": 10667847.7,
+            "gdp_per_capita_nominal": 32920.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 11064998.9,
+            "gdp_per_capita_nominal": 34080.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 11422259.9,
+            "gdp_per_capita_nominal": 35100.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 11796539.0,
+            "gdp_per_capita_nominal": 36150.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 11279941.0,
+            "gdp_per_capita_nominal": 34530.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 12243569.3,
+            "gdp_per_capita_nominal": 37460.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 13336753.5,
+            "gdp_per_capita_nominal": 40610.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 14191081.8,
+            "gdp_per_capita_nominal": 42940.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 14732263.7,
+            "gdp_per_capita_nominal": 44400.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 15292376.1,
+            "gdp_per_capita_nominal": 45940.0
+        }
+    },
+    "EA19": {
+        "2016": {
+            "gdp_nominal_millions": 10904868.5,
+            "gdp_per_capita_nominal": 32170.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 11318040.7,
+            "gdp_per_capita_nominal": 33320.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 11694023.9,
+            "gdp_per_capita_nominal": 34350.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 12084516.3,
+            "gdp_per_capita_nominal": 35410.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 11565084.6,
+            "gdp_per_capita_nominal": 33840.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 12560301.1,
+            "gdp_per_capita_nominal": 36750.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 13690695.8,
+            "gdp_per_capita_nominal": 39860.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 14584269.0,
+            "gdp_per_capita_nominal": 42190.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 15147292.5,
+            "gdp_per_capita_nominal": 43640.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 15729582.4,
+            "gdp_per_capita_nominal": 45190.0
+        }
+    },
+    "EA20": {
+        "2016": {
+            "gdp_nominal_millions": 10952442.0,
+            "gdp_per_capita_nominal": 31920.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 11368245.0,
+            "gdp_per_capita_nominal": 33080.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 11747059.3,
+            "gdp_per_capita_nominal": 34110.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 12140284.1,
+            "gdp_per_capita_nominal": 35160.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 11615802.3,
+            "gdp_per_capita_nominal": 33610.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 12618691.5,
+            "gdp_per_capita_nominal": 36500.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 13758305.3,
+            "gdp_per_capita_nominal": 39610.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 14663455.4,
+            "gdp_per_capita_nominal": 41950.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 15233197.7,
+            "gdp_per_capita_nominal": 43410.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 15822253.1,
+            "gdp_per_capita_nominal": 44950.0
+        }
+    },
+    "EA21": {
+        "2016": {
+            "gdp_nominal_millions": 11001193.3,
+            "gdp_per_capita_nominal": 31430.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 11420746.0,
+            "gdp_per_capita_nominal": 32590.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 11803059.0,
+            "gdp_per_capita_nominal": 33620.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 12201478.5,
+            "gdp_per_capita_nominal": 34680.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 11677657.9,
+            "gdp_per_capita_nominal": 33160.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 12690035.4,
+            "gdp_per_capita_nominal": 36030.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 13844383.5,
+            "gdp_per_capita_nominal": 39130.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 14757980.5,
+            "gdp_per_capita_nominal": 41460.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 15337964.9,
+            "gdp_per_capita_nominal": 42920.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 15938271.4,
+            "gdp_per_capita_nominal": 44470.0
+        }
+    },
+    "EE": {
+        "2016": {
+            "gdp_nominal_millions": 22189.0,
+            "gdp_per_capita_nominal": 16860.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 24316.1,
+            "gdp_per_capita_nominal": 18480.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 26438.5,
+            "gdp_per_capita_nominal": 20040.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 28472.1,
+            "gdp_per_capita_nominal": 21490.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 27859.3,
+            "gdp_per_capita_nominal": 20960.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 31453.3,
+            "gdp_per_capita_nominal": 23650.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 36300.9,
+            "gdp_per_capita_nominal": 27260.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 38353.4,
+            "gdp_per_capita_nominal": 28080.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 39847.7,
+            "gdp_per_capita_nominal": 28990.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 41620.8,
+            "gdp_per_capita_nominal": 30380.0
+        }
+    },
+    "EL": {
+        "2016": {
+            "gdp_nominal_millions": 174448.2,
+            "gdp_per_capita_nominal": 16190.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 177378.5,
+            "gdp_per_capita_nominal": 16490.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 180615.7,
+            "gdp_per_capita_nominal": 16830.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 185181.2,
+            "gdp_per_capita_nominal": 17270.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 167539.5,
+            "gdp_per_capita_nominal": 15660.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 184574.6,
+            "gdp_per_capita_nominal": 17350.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 207008.7,
+            "gdp_per_capita_nominal": 19570.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 224686.2,
+            "gdp_per_capita_nominal": 21300.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 236736.0,
+            "gdp_per_capita_nominal": 22480.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 248353.7,
+            "gdp_per_capita_nominal": 23570.0
+        }
+    },
+    "ES": {
+        "2016": {
+            "gdp_nominal_millions": 1122967.0,
+            "gdp_per_capita_nominal": 24190.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 1170024.0,
+            "gdp_per_capita_nominal": 25160.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 1212276.0,
+            "gdp_per_capita_nominal": 25950.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 1253710.0,
+            "gdp_per_capita_nominal": 26620.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 1129214.0,
+            "gdp_per_capita_nominal": 23850.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 1235474.0,
+            "gdp_per_capita_nominal": 26090.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 1375863.0,
+            "gdp_per_capita_nominal": 28790.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 1497761.0,
+            "gdp_per_capita_nominal": 30980.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 1594330.0,
+            "gdp_per_capita_nominal": 32630.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 1687152.0,
+            "gdp_per_capita_nominal": 34210.0
+        }
+    },
+    "EU27_2020": {
+        "2016": {
+            "gdp_nominal_millions": 12638272.4,
+            "gdp_per_capita_nominal": 28490.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 13169370.9,
+            "gdp_per_capita_nominal": 29650.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 13628646.5,
+            "gdp_per_capita_nominal": 30640.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 14122772.4,
+            "gdp_per_capita_nominal": 31700.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 13578815.3,
+            "gdp_per_capita_nominal": 30510.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 14792279.6,
+            "gdp_per_capita_nominal": 33260.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 16170154.0,
+            "gdp_per_capita_nominal": 36140.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 17256923.3,
+            "gdp_per_capita_nominal": 38380.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 18022243.8,
+            "gdp_per_capita_nominal": 39960.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 18810682.2,
+            "gdp_per_capita_nominal": 41620.0
+        }
+    },
+    "FI": {
+        "2016": {
+            "gdp_nominal_millions": 215717.0,
+            "gdp_per_capita_nominal": 39250.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 224706.0,
+            "gdp_per_capita_nominal": 40790.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 231905.0,
+            "gdp_per_capita_nominal": 42040.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 238518.0,
+            "gdp_per_capita_nominal": 43200.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 236387.0,
+            "gdp_per_capita_nominal": 42740.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 248764.0,
+            "gdp_per_capita_nominal": 44890.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 266135.0,
+            "gdp_per_capita_nominal": 47890.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 273005.0,
+            "gdp_per_capita_nominal": 48950.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 275993.0,
+            "gdp_per_capita_nominal": 49100.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 280570.0,
+            "gdp_per_capita_nominal": 49710.0
+        }
+    },
+    "FR": {
+        "2016": {
+            "gdp_nominal_millions": 2231819.2,
+            "gdp_per_capita_nominal": 33530.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 2291680.5,
+            "gdp_per_capita_nominal": 34290.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 2355362.8,
+            "gdp_per_capita_nominal": 35080.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 2432206.8,
+            "gdp_per_capita_nominal": 36090.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 2318276.2,
+            "gdp_per_capita_nominal": 34280.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 2508102.3,
+            "gdp_per_capita_nominal": 36920.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 2653997.2,
+            "gdp_per_capita_nominal": 38920.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 2826541.5,
+            "gdp_per_capita_nominal": 41340.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 2919899.9,
+            "gdp_per_capita_nominal": 42590.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 2979085.1,
+            "gdp_per_capita_nominal": 43350.0
+        }
+    },
+    "HR": {
+        "2016": {
+            "gdp_nominal_millions": 47573.5,
+            "gdp_per_capita_nominal": 11610.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 50204.3,
+            "gdp_per_capita_nominal": 12430.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 53035.3,
+            "gdp_per_capita_nominal": 13310.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 55767.8,
+            "gdp_per_capita_nominal": 14130.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 50717.8,
+            "gdp_per_capita_nominal": 12980.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 58390.4,
+            "gdp_per_capita_nominal": 15070.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 67609.4,
+            "gdp_per_capita_nominal": 17540.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 79186.3,
+            "gdp_per_capita_nominal": 20530.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 85905.2,
+            "gdp_per_capita_nominal": 22200.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 92975.1,
+            "gdp_per_capita_nominal": 23950.0
+        }
+    },
+    "HU": {
+        "2016": {
+            "gdp_nominal_millions": 116593.5,
+            "gdp_per_capita_nominal": 11950.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 127222.5,
+            "gdp_per_capita_nominal": 13080.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 136580.0,
+            "gdp_per_capita_nominal": 14070.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 147373.2,
+            "gdp_per_capita_nominal": 15200.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 138954.5,
+            "gdp_per_capita_nominal": 14370.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 154971.7,
+            "gdp_per_capita_nominal": 16090.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 168546.2,
+            "gdp_per_capita_nominal": 17550.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 196983.7,
+            "gdp_per_capita_nominal": 20540.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 206156.2,
+            "gdp_per_capita_nominal": 21560.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 218833.9,
+            "gdp_per_capita_nominal": 23000.0
+        }
+    },
+    "IE": {
+        "2016": {
+            "gdp_nominal_millions": 275933.1,
+            "gdp_per_capita_nominal": 58060.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 308366.0,
+            "gdp_per_capita_nominal": 63960.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 335136.0,
+            "gdp_per_capita_nominal": 68530.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 363752.6,
+            "gdp_per_capita_nominal": 73230.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 381728.7,
+            "gdp_per_capita_nominal": 75820.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 448445.1,
+            "gdp_per_capita_nominal": 88070.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 520718.4,
+            "gdp_per_capita_nominal": 100140.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 524728.8,
+            "gdp_per_capita_nominal": 99080.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 562794.2,
+            "gdp_per_capita_nominal": 104510.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 638683.3,
+            "gdp_per_capita_nominal": 116770.0
+        }
+    },
+    "IS": {
+        "2016": {
+            "gdp_nominal_millions": 19067.0,
+            "gdp_per_capita_nominal": 57900.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 22211.8,
+            "gdp_per_capita_nominal": 65850.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 22591.2,
+            "gdp_per_capita_nominal": 65330.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 22315.1,
+            "gdp_per_capita_nominal": 63430.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 19302.5,
+            "gdp_per_capita_nominal": 54190.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 22188.1,
+            "gdp_per_capita_nominal": 61360.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 27748.6,
+            "gdp_per_capita_nominal": 74980.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 29323.9,
+            "gdp_per_capita_nominal": 77270.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 30663.5,
+            "gdp_per_capita_nominal": 79320.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 34256.9,
+            "gdp_per_capita_nominal": 87390.0
+        }
+    },
+    "IT": {
+        "2016": {
+            "gdp_nominal_millions": 1704856.7,
+            "gdp_per_capita_nominal": 28360.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 1744493.0,
+            "gdp_per_capita_nominal": 29070.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 1777744.4,
+            "gdp_per_capita_nominal": 29690.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 1804066.8,
+            "gdp_per_capita_nominal": 30200.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 1670011.9,
+            "gdp_per_capita_nominal": 28100.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 1842507.4,
+            "gdp_per_capita_nominal": 31160.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 1998072.6,
+            "gdp_per_capita_nominal": 33860.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 2142744.4,
+            "gdp_per_capita_nominal": 36330.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 2202031.2,
+            "gdp_per_capita_nominal": 37350.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 2258048.7,
+            "gdp_per_capita_nominal": 38310.0
+        }
+    },
+    "LI": {
+        "2016": {
+            "gdp_nominal_millions": 5637.7,
+            "gdp_per_capita_nominal": 147270.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 5734.6,
+            "gdp_per_capita_nominal": 148690.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 5666.3,
+            "gdp_per_capita_nominal": 146100.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 5750.1,
+            "gdp_per_capita_nominal": 146830.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 5618.0,
+            "gdp_per_capita_nominal": 142470.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 6688.5,
+            "gdp_per_capita_nominal": 168450.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 7058.2,
+            "gdp_per_capita_nominal": 174440.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 7617.8,
+            "gdp_per_capita_nominal": 185840.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 8231.2,
+            "gdp_per_capita_nominal": null
+        },
+        "2025": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        }
+    },
+    "LT": {
+        "2016": {
+            "gdp_nominal_millions": 38820.7,
+            "gdp_per_capita_nominal": 13490.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 42274.6,
+            "gdp_per_capita_nominal": 14870.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 45947.4,
+            "gdp_per_capita_nominal": 16300.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 49239.2,
+            "gdp_per_capita_nominal": 17520.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 50264.6,
+            "gdp_per_capita_nominal": 17890.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 56709.1,
+            "gdp_per_capita_nominal": 20190.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 67081.1,
+            "gdp_per_capita_nominal": 23690.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 74317.0,
+            "gdp_per_capita_nominal": 25880.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 78996.2,
+            "gdp_per_capita_nominal": 27350.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 84258.0,
+            "gdp_per_capita_nominal": 29170.0
+        }
+    },
+    "LU": {
+        "2016": {
+            "gdp_nominal_millions": 56208.1,
+            "gdp_per_capita_nominal": 96230.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 58168.8,
+            "gdp_per_capita_nominal": 97440.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 60193.4,
+            "gdp_per_capita_nominal": 98870.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 62415.0,
+            "gdp_per_capita_nominal": 100420.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 64499.2,
+            "gdp_per_capita_nominal": 102190.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 73039.5,
+            "gdp_per_capita_nominal": 113920.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 76731.2,
+            "gdp_per_capita_nominal": 117100.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 82115.5,
+            "gdp_per_capita_nominal": 122970.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 86180.3,
+            "gdp_per_capita_nominal": 127030.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 89521.5,
+            "gdp_per_capita_nominal": 130300.0
+        }
+    },
+    "LV": {
+        "2016": {
+            "gdp_nominal_millions": 24498.2,
+            "gdp_per_capita_nominal": 12500.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 26017.1,
+            "gdp_per_capita_nominal": 13400.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 28153.4,
+            "gdp_per_capita_nominal": 14620.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 29567.0,
+            "gdp_per_capita_nominal": 15450.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 29224.3,
+            "gdp_per_capita_nominal": 15370.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 32283.8,
+            "gdp_per_capita_nominal": 17130.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 36088.7,
+            "gdp_per_capita_nominal": 19130.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 39564.2,
+            "gdp_per_capita_nominal": 21030.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 40652.3,
+            "gdp_per_capita_nominal": 21800.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 43026.2,
+            "gdp_per_capita_nominal": 23410.0
+        }
+    },
+    "ME": {
+        "2016": {
+            "gdp_nominal_millions": 3936.6,
+            "gdp_per_capita_nominal": 6300.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 4252.5,
+            "gdp_per_capita_nominal": 6790.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 4600.9,
+            "gdp_per_capita_nominal": 7340.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 4898.4,
+            "gdp_per_capita_nominal": 7820.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 4144.8,
+            "gdp_per_capita_nominal": 6610.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 4923.2,
+            "gdp_per_capita_nominal": 7880.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 5944.4,
+            "gdp_per_capita_nominal": 9530.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 7068.8,
+            "gdp_per_capita_nominal": 11340.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 7644.5,
+            "gdp_per_capita_nominal": 12260.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 8170.7,
+            "gdp_per_capita_nominal": 13110.0
+        }
+    },
+    "MK": {
+        "2016": {
+            "gdp_nominal_millions": 9656.5,
+            "gdp_per_capita_nominal": 5070.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 10038.3,
+            "gdp_per_capita_nominal": 5290.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 10744.0,
+            "gdp_per_capita_nominal": 5690.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 11262.0,
+            "gdp_per_capita_nominal": 6000.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 10851.7,
+            "gdp_per_capita_nominal": 5840.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 11834.7,
+            "gdp_per_capita_nominal": 6440.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 13243.2,
+            "gdp_per_capita_nominal": 7230.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 14667.4,
+            "gdp_per_capita_nominal": 8020.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 15672.0,
+            "gdp_per_capita_nominal": 8590.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 16949.1,
+            "gdp_per_capita_nominal": null
+        }
+    },
+    "MT": {
+        "2016": {
+            "gdp_nominal_millions": 10864.3,
+            "gdp_per_capita_nominal": 23900.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 12535.7,
+            "gdp_per_capita_nominal": 26820.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 13678.6,
+            "gdp_per_capita_nominal": 28240.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 14594.2,
+            "gdp_per_capita_nominal": 28920.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 14362.4,
+            "gdp_per_capita_nominal": 27870.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 16681.7,
+            "gdp_per_capita_nominal": 32190.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 17984.8,
+            "gdp_per_capita_nominal": 33810.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 20924.8,
+            "gdp_per_capita_nominal": 37800.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 23136.7,
+            "gdp_per_capita_nominal": 40640.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 24577.2,
+            "gdp_per_capita_nominal": 42160.0
+        }
+    },
+    "NL": {
+        "2016": {
+            "gdp_nominal_millions": 720175.0,
+            "gdp_per_capita_nominal": 42290.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 750861.0,
+            "gdp_per_capita_nominal": 43830.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 787273.0,
+            "gdp_per_capita_nominal": 45690.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 829767.0,
+            "gdp_per_capita_nominal": 47840.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 816463.0,
+            "gdp_per_capita_nominal": 46810.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 891550.0,
+            "gdp_per_capita_nominal": 50850.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 993820.0,
+            "gdp_per_capita_nominal": 56140.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 1050133.0,
+            "gdp_per_capita_nominal": 58740.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 1121543.0,
+            "gdp_per_capita_nominal": 62330.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 1179458.0,
+            "gdp_per_capita_nominal": 65210.0
+        }
+    },
+    "NO": {
+        "2016": {
+            "gdp_nominal_millions": 346542.3,
+            "gdp_per_capita_nominal": 66180.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 368640.5,
+            "gdp_per_capita_nominal": 69860.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 385198.6,
+            "gdp_per_capita_nominal": 72510.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 378978.5,
+            "gdp_per_capita_nominal": 70860.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 335661.0,
+            "gdp_per_capita_nominal": 62400.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 440848.6,
+            "gdp_per_capita_nominal": 81520.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 587476.0,
+            "gdp_per_capita_nominal": 107660.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 464330.3,
+            "gdp_per_capita_nominal": 84120.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 462846.4,
+            "gdp_per_capita_nominal": 83070.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 470897.6,
+            "gdp_per_capita_nominal": 83950.0
+        }
+    },
+    "PL": {
+        "2016": {
+            "gdp_nominal_millions": 427658.6,
+            "gdp_per_capita_nominal": 11270.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 469071.2,
+            "gdp_per_capita_nominal": 12360.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 503951.0,
+            "gdp_per_capita_nominal": 13280.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 538423.5,
+            "gdp_per_capita_nominal": 14190.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 531827.4,
+            "gdp_per_capita_nominal": 14310.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 583001.4,
+            "gdp_per_capita_nominal": 15770.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 661712.3,
+            "gdp_per_capita_nominal": 17520.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 751931.7,
+            "gdp_per_capita_nominal": 19980.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 852229.8,
+            "gdp_per_capita_nominal": 22710.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 922865.5,
+            "gdp_per_capita_nominal": 24680.0
+        }
+    },
+    "PT": {
+        "2016": {
+            "gdp_nominal_millions": 186380.7,
+            "gdp_per_capita_nominal": 18000.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 195509.1,
+            "gdp_per_capita_nominal": 18910.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 204997.6,
+            "gdp_per_capita_nominal": 19840.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 214489.9,
+            "gdp_per_capita_nominal": 20710.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 201032.7,
+            "gdp_per_capita_nominal": 19360.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 216493.7,
+            "gdp_per_capita_nominal": 20800.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 243957.1,
+            "gdp_per_capita_nominal": 23300.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 270352.6,
+            "gdp_per_capita_nominal": 25560.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 289784.3,
+            "gdp_per_capita_nominal": 27100.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 306765.5,
+            "gdp_per_capita_nominal": 28390.0
+        }
+    },
+    "RO": {
+        "2016": {
+            "gdp_nominal_millions": 167497.1,
+            "gdp_per_capita_nominal": 8500.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 186399.2,
+            "gdp_per_capita_nominal": 9510.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 204780.7,
+            "gdp_per_capita_nominal": 10510.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 223341.4,
+            "gdp_per_capita_nominal": 11520.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 219839.8,
+            "gdp_per_capita_nominal": 11390.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 240986.6,
+            "gdp_per_capita_nominal": 12590.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 280777.4,
+            "gdp_per_capita_nominal": 14740.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 321577.9,
+            "gdp_per_capita_nominal": 16870.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 353633.1,
+            "gdp_per_capita_nominal": 18550.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 380058.1,
+            "gdp_per_capita_nominal": 19960.0
+        }
+    },
+    "RS": {
+        "2016": {
+            "gdp_nominal_millions": 38164.7,
+            "gdp_per_capita_nominal": 5410.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 40828.4,
+            "gdp_per_capita_nominal": 5820.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 44710.6,
+            "gdp_per_capita_nominal": 6400.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 48104.5,
+            "gdp_per_capita_nominal": 6930.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 49024.2,
+            "gdp_per_capita_nominal": 7110.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 55931.3,
+            "gdp_per_capita_nominal": 8180.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 63512.8,
+            "gdp_per_capita_nominal": 9530.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 75205.2,
+            "gdp_per_capita_nominal": 11350.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 83257.9,
+            "gdp_per_capita_nominal": 12640.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 88672.8,
+            "gdp_per_capita_nominal": 13540.0
+        }
+    },
+    "SE": {
+        "2016": {
+            "gdp_nominal_millions": 463918.8,
+            "gdp_per_capita_nominal": 46790.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 474838.2,
+            "gdp_per_capita_nominal": 47210.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 465753.3,
+            "gdp_per_capita_nominal": 45770.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 474202.9,
+            "gdp_per_capita_nominal": 46110.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 478106.9,
+            "gdp_per_capita_nominal": 46180.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 533953.6,
+            "gdp_per_capita_nominal": 51260.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 547190.4,
+            "gdp_per_capita_nominal": 51980.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 535176.8,
+            "gdp_per_capita_nominal": 50490.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 559072.5,
+            "gdp_per_capita_nominal": 52590.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 593697.9,
+            "gdp_per_capita_nominal": 55620.0
+        }
+    },
+    "SI": {
+        "2016": {
+            "gdp_nominal_millions": 40013.2,
+            "gdp_per_capita_nominal": 19380.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 42625.5,
+            "gdp_per_capita_nominal": 20630.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 45462.4,
+            "gdp_per_capita_nominal": 21940.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 48156.5,
+            "gdp_per_capita_nominal": 23050.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 46738.7,
+            "gdp_per_capita_nominal": 22230.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 52032.4,
+            "gdp_per_capita_nominal": 24690.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 56881.6,
+            "gdp_per_capita_nominal": 26970.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 64050.0,
+            "gdp_per_capita_nominal": 30200.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 67418.1,
+            "gdp_per_capita_nominal": 31700.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 70486.2,
+            "gdp_per_capita_nominal": 33060.0
+        }
+    },
+    "SK": {
+        "2016": {
+            "gdp_nominal_millions": 81621.6,
+            "gdp_per_capita_nominal": 15030.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 84960.4,
+            "gdp_per_capita_nominal": 15620.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 90275.9,
+            "gdp_per_capita_nominal": 16580.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 94547.5,
+            "gdp_per_capita_nominal": 17340.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 94320.6,
+            "gdp_per_capita_nominal": 17270.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 101891.6,
+            "gdp_per_capita_nominal": 18730.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 109959.8,
+            "gdp_per_capita_nominal": 20150.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 123538.7,
+            "gdp_per_capita_nominal": 22640.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 130207.5,
+            "gdp_per_capita_nominal": 23850.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 136754.3,
+            "gdp_per_capita_nominal": 25060.0
+        }
+    },
+    "TR": {
+        "2016": {
+            "gdp_nominal_millions": 786644.3,
+            "gdp_per_capita_nominal": 9600.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 764822.9,
+            "gdp_per_capita_nominal": 9170.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 666902.5,
+            "gdp_per_capita_nominal": 7850.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 692385.8,
+            "gdp_per_capita_nominal": 8030.0
+        },
+        "2020": {
+            "gdp_nominal_millions": 638349.1,
+            "gdp_per_capita_nominal": 7340.0
+        },
+        "2021": {
+            "gdp_nominal_millions": 707145.8,
+            "gdp_per_capita_nominal": 8050.0
+        },
+        "2022": {
+            "gdp_nominal_millions": 880351.2,
+            "gdp_per_capita_nominal": 9930.0
+        },
+        "2023": {
+            "gdp_nominal_millions": 1051699.7,
+            "gdp_per_capita_nominal": 11860.0
+        },
+        "2024": {
+            "gdp_nominal_millions": 1253386.7,
+            "gdp_per_capita_nominal": 14140.0
+        },
+        "2025": {
+            "gdp_nominal_millions": 1406211.3,
+            "gdp_per_capita_nominal": null
+        }
+    },
+    "UK": {
+        "2016": {
+            "gdp_nominal_millions": 2434119.2,
+            "gdp_per_capita_nominal": 37080.0
+        },
+        "2017": {
+            "gdp_nominal_millions": 2359789.9,
+            "gdp_per_capita_nominal": 35730.0
+        },
+        "2018": {
+            "gdp_nominal_millions": 2420897.2,
+            "gdp_per_capita_nominal": 36440.0
+        },
+        "2019": {
+            "gdp_nominal_millions": 2526615.2,
+            "gdp_per_capita_nominal": 37830.0
+        },
+        "2020": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        },
+        "2021": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        },
+        "2022": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        },
+        "2023": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        },
+        "2024": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        },
+        "2025": {
+            "gdp_nominal_millions": null,
+            "gdp_per_capita_nominal": null
+        }
+    },
+    "XK": {
+        "2016": {
+            "gdp_nominal_millions": 6037.3,
+            "gdp_per_capita_nominal": null
+        },
+        "2017": {
+            "gdp_nominal_millions": 6356.5,
+            "gdp_per_capita_nominal": null
+        },
+        "2018": {
+            "gdp_nominal_millions": 6671.5,
+            "gdp_per_capita_nominal": null
+        },
+        "2019": {
+            "gdp_nominal_millions": 7056.2,
+            "gdp_per_capita_nominal": null
+        },
+        "2020": {
+            "gdp_nominal_millions": 6771.6,
+            "gdp_per_capita_nominal": null
+        },
+        "2021": {
+            "gdp_nominal_millions": 7957.9,
+            "gdp_per_capita_nominal": null
+        },
+        "2022": {
+            "gdp_nominal_millions": 8895.7,
+            "gdp_per_capita_nominal": null
+        },
+        "2023": {
+            "gdp_nominal_millions": 9680.1,
+            "gdp_per_capita_nominal": null
+        },
+        "2024": {
+            "gdp_nominal_millions": 10350.4,
+            "gdp_per_capita_nominal": null
+        },
+        "2025": {
+            "gdp_nominal_millions": 11026.3,
+            "gdp_per_capita_nominal": null
+        }
+    }
+}

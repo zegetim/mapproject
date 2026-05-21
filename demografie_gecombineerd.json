@@ -1,0 +1,3907 @@
+{
+    "AD": {
+        "2016": {
+            "population": 71732.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2018": {
+            "population": 74794.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2019": {
+            "population": 76177.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 13.6
+        },
+        "2020": {
+            "population": 77543.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2022": {
+            "population": 79535.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2023": {
+            "population": 81588.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2024": {
+            "population": 85101.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "AL": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.73,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 2892394.0,
+            "fertility_rate": 1.73,
+            "foreign_born": null,
+            "over_65": 12.0
+        },
+        "2015": {
+            "population": 2885796.0,
+            "fertility_rate": 1.59,
+            "foreign_born": null,
+            "over_65": 12.4
+        },
+        "2016": {
+            "population": 2875592.0,
+            "fertility_rate": 1.54,
+            "foreign_born": null,
+            "over_65": 12.8
+        },
+        "2017": {
+            "population": 2876591.0,
+            "fertility_rate": 1.48,
+            "foreign_born": null,
+            "over_65": 13.1
+        },
+        "2018": {
+            "population": 2870324.0,
+            "fertility_rate": 1.37,
+            "foreign_born": null,
+            "over_65": 13.6
+        },
+        "2019": {
+            "population": 2862427.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 14.1
+        },
+        "2020": {
+            "population": 2845955.0,
+            "fertility_rate": 1.34,
+            "foreign_born": null,
+            "over_65": 14.8
+        },
+        "2021": {
+            "population": 2829741.0,
+            "fertility_rate": 1.31,
+            "foreign_born": null,
+            "over_65": 15.2
+        },
+        "2022": {
+            "population": 2793592.0,
+            "fertility_rate": 1.21,
+            "foreign_born": null,
+            "over_65": 15.7
+        },
+        "2023": {
+            "population": 2761785.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 16.5
+        },
+        "2024": {
+            "population": 2390942.0,
+            "fertility_rate": 1.64,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2025": {
+            "population": 2363314.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 21.2
+        }
+    },
+    "AM": {
+        "2014": {
+            "population": 3017079.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2015": {
+            "population": 3010598.0,
+            "fertility_rate": 1.62,
+            "foreign_born": null,
+            "over_65": 10.7
+        },
+        "2016": {
+            "population": 2998577.0,
+            "fertility_rate": 1.62,
+            "foreign_born": null,
+            "over_65": 10.9
+        },
+        "2017": {
+            "population": 2986151.0,
+            "fertility_rate": 1.56,
+            "foreign_born": null,
+            "over_65": 11.2
+        },
+        "2018": {
+            "population": 2972732.0,
+            "fertility_rate": 1.57,
+            "foreign_born": null,
+            "over_65": 11.6
+        },
+        "2019": {
+            "population": 2965269.0,
+            "fertility_rate": 1.6,
+            "foreign_born": null,
+            "over_65": 11.9
+        },
+        "2020": {
+            "population": 2959694.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 12.3
+        },
+        "2021": {
+            "population": 2963251.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 12.6
+        },
+        "2023": {
+            "population": 2977130.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2024": {
+            "population": 2991201.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 16.7
+        },
+        "2025": {
+            "population": 3076252.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "AT": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.44,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 8507786.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 1414215.0,
+            "over_65": 18.3
+        },
+        "2015": {
+            "population": 8584926.0,
+            "fertility_rate": 1.49,
+            "foreign_born": 1483123.0,
+            "over_65": 18.5
+        },
+        "2016": {
+            "population": 8700471.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 1588209.0,
+            "over_65": 18.4
+        },
+        "2017": {
+            "population": 8772865.0,
+            "fertility_rate": 1.52,
+            "foreign_born": 1649008.0,
+            "over_65": 18.5
+        },
+        "2018": {
+            "population": 8822267.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 1690619.0,
+            "over_65": 18.7
+        },
+        "2019": {
+            "population": 8858775.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 1722833.0,
+            "over_65": 18.8
+        },
+        "2020": {
+            "population": 8901064.0,
+            "fertility_rate": 1.44,
+            "foreign_born": 1760595.0,
+            "over_65": 19.0
+        },
+        "2021": {
+            "population": 8932664.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 1792053.0,
+            "over_65": 19.2
+        },
+        "2022": {
+            "population": 8978929.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 1834342.0,
+            "over_65": 19.4
+        },
+        "2023": {
+            "population": 9104772.0,
+            "fertility_rate": 1.32,
+            "foreign_born": 1963312.0,
+            "over_65": 19.6
+        },
+        "2024": {
+            "population": 9158750.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 2023431.0,
+            "over_65": 19.8
+        },
+        "2025": {
+            "population": 9197213.0,
+            "fertility_rate": null,
+            "foreign_born": 2069404.0,
+            "over_65": 20.2
+        }
+    },
+    "AZ": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.98,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 9477119.0,
+            "fertility_rate": 1.97,
+            "foreign_born": null,
+            "over_65": 5.8
+        },
+        "2015": {
+            "population": 9593038.0,
+            "fertility_rate": 1.94,
+            "foreign_born": null,
+            "over_65": 6.0
+        },
+        "2016": {
+            "population": 9705643.0,
+            "fertility_rate": 1.9,
+            "foreign_born": null,
+            "over_65": 6.2
+        },
+        "2017": {
+            "population": 9809981.0,
+            "fertility_rate": 1.75,
+            "foreign_born": null,
+            "over_65": 6.3
+        },
+        "2018": {
+            "population": 9898085.0,
+            "fertility_rate": 1.73,
+            "foreign_born": null,
+            "over_65": 6.5
+        },
+        "2019": {
+            "population": 9981457.0,
+            "fertility_rate": 1.81,
+            "foreign_born": null,
+            "over_65": 6.8
+        },
+        "2020": {
+            "population": 10067108.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 7.2
+        },
+        "2021": {
+            "population": 10119133.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 7.5
+        },
+        "2022": {
+            "population": 10156366.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 7.9
+        },
+        "2023": {
+            "population": 10127145.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 8.5
+        },
+        "2024": {
+            "population": 10180770.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 9.1
+        },
+        "2025": {
+            "population": 10224889.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 9.9
+        }
+    },
+    "BA": {
+        "2014": {
+            "population": 3830911.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2015": {
+            "population": 3825334.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2016": {
+            "population": 3515982.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2017": {
+            "population": 3509728.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2018": {
+            "population": 3500295.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2019": {
+            "population": 3492018.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2022": {
+            "population": 3464384.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2023": {
+            "population": 3441194.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2024": {
+            "population": 3417089.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2025": {
+            "population": 3406568.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "BE": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.76,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 11180840.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 1748748.0,
+            "over_65": 17.8
+        },
+        "2015": {
+            "population": 11237274.0,
+            "fertility_rate": 1.7,
+            "foreign_born": 1783488.0,
+            "over_65": 18.1
+        },
+        "2016": {
+            "population": 11311117.0,
+            "fertility_rate": 1.68,
+            "foreign_born": 1845631.0,
+            "over_65": 18.2
+        },
+        "2017": {
+            "population": 11351727.0,
+            "fertility_rate": 1.65,
+            "foreign_born": 1876726.0,
+            "over_65": 18.5
+        },
+        "2018": {
+            "population": 11398589.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 1916272.0,
+            "over_65": 18.7
+        },
+        "2019": {
+            "population": 11455519.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 1968060.0,
+            "over_65": 18.9
+        },
+        "2020": {
+            "population": 11522440.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 2027763.0,
+            "over_65": 19.1
+        },
+        "2021": {
+            "population": 11554767.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 2065727.0,
+            "over_65": 19.3
+        },
+        "2022": {
+            "population": 11617623.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 2119691.0,
+            "over_65": 19.5
+        },
+        "2023": {
+            "population": 11742796.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 2246910.0,
+            "over_65": 19.7
+        },
+        "2024": {
+            "population": 11817096.0,
+            "fertility_rate": 1.44,
+            "foreign_born": 2324053.0,
+            "over_65": 19.9
+        },
+        "2025": {
+            "population": 11883495.0,
+            "fertility_rate": null,
+            "foreign_born": 2399622.0,
+            "over_65": 20.2
+        }
+    },
+    "BG": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.54,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 7117453.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 107275.0,
+            "over_65": 19.9
+        },
+        "2015": {
+            "population": 7029690.0,
+            "fertility_rate": 1.64,
+            "foreign_born": 120635.0,
+            "over_65": 20.5
+        },
+        "2016": {
+            "population": 6938759.0,
+            "fertility_rate": 1.67,
+            "foreign_born": 131924.0,
+            "over_65": 21.1
+        },
+        "2017": {
+            "population": 6849518.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 139655.0,
+            "over_65": 21.6
+        },
+        "2018": {
+            "population": 6757418.0,
+            "fertility_rate": 1.73,
+            "foreign_born": 149096.0,
+            "over_65": 22.0
+        },
+        "2019": {
+            "population": 6664177.0,
+            "fertility_rate": 1.79,
+            "foreign_born": 162346.0,
+            "over_65": 22.5
+        },
+        "2020": {
+            "population": 6569275.0,
+            "fertility_rate": 1.77,
+            "foreign_born": 176321.0,
+            "over_65": 22.9
+        },
+        "2021": {
+            "population": 6532117.0,
+            "fertility_rate": 1.8,
+            "foreign_born": 188519.0,
+            "over_65": 23.0
+        },
+        "2022": {
+            "population": 6482484.0,
+            "fertility_rate": 1.78,
+            "foreign_born": 142214.0,
+            "over_65": 23.4
+        },
+        "2023": {
+            "population": 6447710.0,
+            "fertility_rate": 1.81,
+            "foreign_born": 168595.0,
+            "over_65": 23.5
+        },
+        "2024": {
+            "population": 6445481.0,
+            "fertility_rate": 1.72,
+            "foreign_born": 211839.0,
+            "over_65": 23.8
+        },
+        "2025": {
+            "population": 6437360.0,
+            "fertility_rate": null,
+            "foreign_born": 246575.0,
+            "over_65": 24.0
+        }
+    },
+    "BY": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.67,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 9468154.0,
+            "fertility_rate": 1.7,
+            "foreign_born": null,
+            "over_65": 13.9
+        },
+        "2015": {
+            "population": 9480868.0,
+            "fertility_rate": 1.72,
+            "foreign_born": null,
+            "over_65": 14.2
+        },
+        "2016": {
+            "population": 9498364.0,
+            "fertility_rate": 1.73,
+            "foreign_born": null,
+            "over_65": 14.4
+        },
+        "2017": {
+            "population": 9504704.0,
+            "fertility_rate": 1.54,
+            "foreign_born": null,
+            "over_65": 14.7
+        },
+        "2018": {
+            "population": 9491823.0,
+            "fertility_rate": 1.45,
+            "foreign_born": null,
+            "over_65": 15.0
+        },
+        "2019": {
+            "population": 9475174.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 15.2
+        },
+        "2020": {
+            "population": 9408350.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "CH": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 8139631.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 2183206.0,
+            "over_65": 17.6
+        },
+        "2015": {
+            "population": 8237666.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 2258196.0,
+            "over_65": 17.8
+        },
+        "2016": {
+            "population": 8327126.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 2324461.0,
+            "over_65": 18.0
+        },
+        "2017": {
+            "population": 8419550.0,
+            "fertility_rate": 1.52,
+            "foreign_born": 2391480.0,
+            "over_65": 18.1
+        },
+        "2018": {
+            "population": 8484130.0,
+            "fertility_rate": 1.52,
+            "foreign_born": 2432519.0,
+            "over_65": 18.3
+        },
+        "2019": {
+            "population": 8544527.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 2469381.0,
+            "over_65": 18.5
+        },
+        "2020": {
+            "population": 8606033.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 2509692.0,
+            "over_65": 18.7
+        },
+        "2021": {
+            "population": 8670300.0,
+            "fertility_rate": 1.52,
+            "foreign_born": 2553225.0,
+            "over_65": 18.8
+        },
+        "2022": {
+            "population": 8738791.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 2598146.0,
+            "over_65": 19.0
+        },
+        "2023": {
+            "population": 8815385.0,
+            "fertility_rate": 1.33,
+            "foreign_born": 2662038.0,
+            "over_65": 19.2
+        },
+        "2024": {
+            "population": 8962258.0,
+            "fertility_rate": 1.29,
+            "foreign_born": 2794948.0,
+            "over_65": 19.3
+        },
+        "2025": {
+            "population": 9051029.0,
+            "fertility_rate": null,
+            "foreign_born": 2870124.0,
+            "over_65": 19.5
+        }
+    },
+    "CY": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.31,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 860032.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 189641.0,
+            "over_65": 14.0
+        },
+        "2015": {
+            "population": 860846.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 185819.0,
+            "over_65": 14.5
+        },
+        "2016": {
+            "population": 863764.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 184385.0,
+            "over_65": 15.0
+        },
+        "2017": {
+            "population": 869878.0,
+            "fertility_rate": 1.34,
+            "foreign_born": 185500.0,
+            "over_65": 15.4
+        },
+        "2018": {
+            "population": 878601.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 192409.0,
+            "over_65": 15.8
+        },
+        "2019": {
+            "population": 890194.0,
+            "fertility_rate": 1.4,
+            "foreign_born": 200418.0,
+            "over_65": 16.2
+        },
+        "2020": {
+            "population": 902429.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 208687.0,
+            "over_65": 16.6
+        },
+        "2021": {
+            "population": 914476.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 219134.0,
+            "over_65": 16.9
+        },
+        "2022": {
+            "population": 929764.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 233319.0,
+            "over_65": 17.1
+        },
+        "2023": {
+            "population": 949084.0,
+            "fertility_rate": 1.4,
+            "foreign_born": 247304.0,
+            "over_65": 17.3
+        },
+        "2024": {
+            "population": 966365.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 259939.0,
+            "over_65": 17.7
+        },
+        "2025": {
+            "population": 982966.0,
+            "fertility_rate": null,
+            "foreign_born": 270821.0,
+            "over_65": 18.3
+        }
+    },
+    "CZ": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.46,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 10512419.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 396156.0,
+            "over_65": 17.4
+        },
+        "2015": {
+            "population": 10538275.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 416454.0,
+            "over_65": 17.8
+        },
+        "2016": {
+            "population": 10553843.0,
+            "fertility_rate": 1.63,
+            "foreign_born": 433290.0,
+            "over_65": 18.3
+        },
+        "2017": {
+            "population": 10578820.0,
+            "fertility_rate": 1.69,
+            "foreign_born": 465056.0,
+            "over_65": 18.8
+        },
+        "2018": {
+            "population": 10610055.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 467580.0,
+            "over_65": 19.2
+        },
+        "2019": {
+            "population": 10649800.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 507051.0,
+            "over_65": 19.6
+        },
+        "2020": {
+            "population": 10693939.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 533639.0,
+            "over_65": 19.9
+        },
+        "2021": {
+            "population": 10494836.0,
+            "fertility_rate": 1.83,
+            "foreign_born": 409220.0,
+            "over_65": 20.5
+        },
+        "2022": {
+            "population": 10516707.0,
+            "fertility_rate": 1.64,
+            "foreign_born": 685840.0,
+            "over_65": 20.6
+        },
+        "2023": {
+            "population": 10827529.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 990821.0,
+            "over_65": 20.4
+        },
+        "2024": {
+            "population": 10900555.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 1069593.0,
+            "over_65": 20.5
+        },
+        "2025": {
+            "population": 10909500.0,
+            "fertility_rate": null,
+            "foreign_born": 1095599.0,
+            "over_65": 20.7
+        }
+    },
+    "DE": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.42,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 80767463.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 9807877.0,
+            "over_65": 20.9
+        },
+        "2015": {
+            "population": 81197537.0,
+            "fertility_rate": 1.5,
+            "foreign_born": 10220418.0,
+            "over_65": 21.0
+        },
+        "2016": {
+            "population": 82175684.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 10908255.0,
+            "over_65": 21.1
+        },
+        "2017": {
+            "population": 82521653.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 12105436.0,
+            "over_65": 21.2
+        },
+        "2018": {
+            "population": 82792351.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 13745843.0,
+            "over_65": 21.4
+        },
+        "2019": {
+            "population": 83019213.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 14879635.0,
+            "over_65": 21.5
+        },
+        "2020": {
+            "population": 83166711.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 15040708.0,
+            "over_65": 21.8
+        },
+        "2021": {
+            "population": 83155031.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 15162728.0,
+            "over_65": 22.0
+        },
+        "2022": {
+            "population": 83237124.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 15287650.0,
+            "over_65": 22.1
+        },
+        "2023": {
+            "population": 83118501.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 16362854.0,
+            "over_65": 22.2
+        },
+        "2024": {
+            "population": 83456045.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 16881323.0,
+            "over_65": 22.4
+        },
+        "2025": {
+            "population": 83577140.0,
+            "fertility_rate": null,
+            "foreign_born": 17153545.0,
+            "over_65": 22.7
+        }
+    },
+    "DK": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.67,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 5627235.0,
+            "fertility_rate": 1.69,
+            "foreign_born": 569596.0,
+            "over_65": 18.2
+        },
+        "2015": {
+            "population": 5659715.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 595876.0,
+            "over_65": 18.6
+        },
+        "2016": {
+            "population": 5707251.0,
+            "fertility_rate": 1.79,
+            "foreign_born": 636666.0,
+            "over_65": 18.8
+        },
+        "2017": {
+            "population": 5748769.0,
+            "fertility_rate": 1.75,
+            "foreign_born": 668090.0,
+            "over_65": 19.1
+        },
+        "2018": {
+            "population": 5781190.0,
+            "fertility_rate": 1.73,
+            "foreign_born": 690549.0,
+            "over_65": 19.3
+        },
+        "2019": {
+            "population": 5806081.0,
+            "fertility_rate": 1.7,
+            "foreign_born": 707880.0,
+            "over_65": 19.6
+        },
+        "2020": {
+            "population": 5822763.0,
+            "fertility_rate": 1.68,
+            "foreign_born": 715936.0,
+            "over_65": 19.9
+        },
+        "2021": {
+            "population": 5840045.0,
+            "fertility_rate": 1.72,
+            "foreign_born": 721135.0,
+            "over_65": 20.1
+        },
+        "2022": {
+            "population": 5873420.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 745851.0,
+            "over_65": 20.3
+        },
+        "2023": {
+            "population": 5932654.0,
+            "fertility_rate": 1.5,
+            "foreign_born": 804061.0,
+            "over_65": 20.5
+        },
+        "2024": {
+            "population": 5961249.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 832354.0,
+            "over_65": 20.7
+        },
+        "2025": {
+            "population": 5992734.0,
+            "fertility_rate": null,
+            "foreign_born": 862074.0,
+            "over_65": 20.9
+        }
+    },
+    "EA19": {
+        "2014": {
+            "population": 337333091.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2015": {
+            "population": 338076796.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2016": {
+            "population": 339313837.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2017": {
+            "population": 340062806.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2018": {
+            "population": 340794307.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2019": {
+            "population": 341743463.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2020": {
+            "population": 342706595.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2021": {
+            "population": 342825212.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2022": {
+            "population": 343269067.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2023": {
+            "population": 344716074.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2024": {
+            "population": 346315486.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2025": {
+            "population": 347505638.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "EA20": {
+        "2014": {
+            "population": 341518210.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 19.3
+        },
+        "2015": {
+            "population": 342216135.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 19.6
+        },
+        "2016": {
+            "population": 343396619.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 19.9
+        },
+        "2017": {
+            "population": 344080909.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 20.2
+        },
+        "2018": {
+            "population": 344734819.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 20.4
+        },
+        "2019": {
+            "population": 345622753.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 20.7
+        },
+        "2020": {
+            "population": 346534045.0,
+            "fertility_rate": 1.49,
+            "foreign_born": null,
+            "over_65": 20.9
+        },
+        "2021": {
+            "population": 346594950.0,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": 21.2
+        },
+        "2022": {
+            "population": 347131372.0,
+            "fertility_rate": 1.45,
+            "foreign_born": null,
+            "over_65": 21.4
+        },
+        "2023": {
+            "population": 348667528.0,
+            "fertility_rate": 1.38,
+            "foreign_born": null,
+            "over_65": 21.6
+        },
+        "2024": {
+            "population": 350357697.0,
+            "fertility_rate": 1.35,
+            "foreign_born": null,
+            "over_65": 21.9
+        },
+        "2025": {
+            "population": 351639519.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 22.2
+        }
+    },
+    "EA21": {
+        "2014": {
+            "population": 348635663.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2015": {
+            "population": 349245825.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2016": {
+            "population": 350335378.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2017": {
+            "population": 350930427.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2018": {
+            "population": 351492237.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2019": {
+            "population": 352286930.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2020": {
+            "population": 353103320.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2021": {
+            "population": 353127067.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2022": {
+            "population": 353613856.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2023": {
+            "population": 355115238.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2024": {
+            "population": 356803178.0,
+            "fertility_rate": 1.36,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2025": {
+            "population": 358076879.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 22.3
+        }
+    },
+    "EE": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 1315819.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 190716.0,
+            "over_65": 18.4
+        },
+        "2015": {
+            "population": 1313271.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 192850.0,
+            "over_65": 18.8
+        },
+        "2016": {
+            "population": 1315944.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 193754.0,
+            "over_65": 19.0
+        },
+        "2017": {
+            "population": 1315635.0,
+            "fertility_rate": 1.59,
+            "foreign_born": 192535.0,
+            "over_65": 19.3
+        },
+        "2018": {
+            "population": 1319133.0,
+            "fertility_rate": 1.67,
+            "foreign_born": 196207.0,
+            "over_65": 19.6
+        },
+        "2019": {
+            "population": 1324820.0,
+            "fertility_rate": 1.66,
+            "foreign_born": 197896.0,
+            "over_65": 19.8
+        },
+        "2020": {
+            "population": 1328889.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 198254.0,
+            "over_65": 20.0
+        },
+        "2021": {
+            "population": 1330068.0,
+            "fertility_rate": 1.61,
+            "foreign_born": 198243.0,
+            "over_65": 20.3
+        },
+        "2022": {
+            "population": 1331796.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 200583.0,
+            "over_65": 20.4
+        },
+        "2023": {
+            "population": 1365884.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 234743.0,
+            "over_65": 20.2
+        },
+        "2024": {
+            "population": 1374687.0,
+            "fertility_rate": 1.18,
+            "foreign_born": 244422.0,
+            "over_65": 20.5
+        },
+        "2025": {
+            "population": 1369995.0,
+            "fertility_rate": null,
+            "foreign_born": 243255.0,
+            "over_65": 20.9
+        }
+    },
+    "EL": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.29,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 10894294.0,
+            "fertility_rate": 1.3,
+            "foreign_born": 1271118.0,
+            "over_65": 20.4
+        },
+        "2015": {
+            "population": 10818041.0,
+            "fertility_rate": 1.33,
+            "foreign_born": 1254332.0,
+            "over_65": 20.8
+        },
+        "2016": {
+            "population": 10735415.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 1236855.0,
+            "over_65": 21.1
+        },
+        "2017": {
+            "population": 10707527.0,
+            "fertility_rate": 1.35,
+            "foreign_born": 1224836.0,
+            "over_65": 21.4
+        },
+        "2018": {
+            "population": 10667336.0,
+            "fertility_rate": 1.35,
+            "foreign_born": 1210567.0,
+            "over_65": 21.7
+        },
+        "2019": {
+            "population": 10635213.0,
+            "fertility_rate": 1.34,
+            "foreign_born": 1199084.0,
+            "over_65": 22.0
+        },
+        "2020": {
+            "population": 10612591.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 1187514.0,
+            "over_65": 22.2
+        },
+        "2021": {
+            "population": 10555344.0,
+            "fertility_rate": 1.43,
+            "foreign_born": 1172292.0,
+            "over_65": 22.5
+        },
+        "2022": {
+            "population": 10461627.0,
+            "fertility_rate": 1.32,
+            "foreign_born": 1160403.0,
+            "over_65": 22.8
+        },
+        "2023": {
+            "population": 10401868.0,
+            "fertility_rate": 1.26,
+            "foreign_born": 1164729.0,
+            "over_65": 23.0
+        },
+        "2024": {
+            "population": 10375764.0,
+            "fertility_rate": 1.24,
+            "foreign_born": 1144701.0,
+            "over_65": 23.4
+        },
+        "2025": {
+            "population": 10372335.0,
+            "fertility_rate": null,
+            "foreign_born": 1142215.0,
+            "over_65": 23.7
+        }
+    },
+    "ES": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.27,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 46495744.0,
+            "fertility_rate": 1.32,
+            "foreign_born": 5952770.0,
+            "over_65": 18.1
+        },
+        "2015": {
+            "population": 46425722.0,
+            "fertility_rate": 1.33,
+            "foreign_born": 5883891.0,
+            "over_65": 18.4
+        },
+        "2016": {
+            "population": 46418884.0,
+            "fertility_rate": 1.33,
+            "foreign_born": 5913165.0,
+            "over_65": 18.7
+        },
+        "2017": {
+            "population": 46497393.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 6014708.0,
+            "over_65": 18.9
+        },
+        "2018": {
+            "population": 46645070.0,
+            "fertility_rate": 1.26,
+            "foreign_born": 6207509.0,
+            "over_65": 19.1
+        },
+        "2019": {
+            "population": 46918951.0,
+            "fertility_rate": 1.23,
+            "foreign_born": 6549309.0,
+            "over_65": 19.3
+        },
+        "2020": {
+            "population": 47318050.0,
+            "fertility_rate": 1.18,
+            "foreign_born": 7014753.0,
+            "over_65": 19.5
+        },
+        "2021": {
+            "population": 47400798.0,
+            "fertility_rate": 1.18,
+            "foreign_born": 7254797.0,
+            "over_65": 19.6
+        },
+        "2022": {
+            "population": 47486843.0,
+            "fertility_rate": 1.16,
+            "foreign_born": 7468144.0,
+            "over_65": 20.0
+        },
+        "2023": {
+            "population": 48085361.0,
+            "fertility_rate": 1.12,
+            "foreign_born": 8204206.0,
+            "over_65": 20.1
+        },
+        "2024": {
+            "population": 48619695.0,
+            "fertility_rate": 1.1,
+            "foreign_born": 8838234.0,
+            "over_65": 20.4
+        },
+        "2025": {
+            "population": 49128297.0,
+            "fertility_rate": null,
+            "foreign_born": 9464210.0,
+            "over_65": 20.7
+        }
+    },
+    "EU27_2020": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.51,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 442235565.0,
+            "fertility_rate": 1.54,
+            "foreign_born": null,
+            "over_65": 18.7
+        },
+        "2015": {
+            "population": 442883289.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 44288815.0,
+            "over_65": 19.1
+        },
+        "2016": {
+            "population": 443954935.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 45879196.0,
+            "over_65": 19.4
+        },
+        "2017": {
+            "population": 444609939.0,
+            "fertility_rate": 1.56,
+            "foreign_born": 48067848.0,
+            "over_65": 19.7
+        },
+        "2018": {
+            "population": 445227547.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 50693432.0,
+            "over_65": 20.0
+        },
+        "2019": {
+            "population": 446060538.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 53233648.0,
+            "over_65": 20.3
+        },
+        "2020": {
+            "population": 446923963.0,
+            "fertility_rate": 1.51,
+            "foreign_born": 54855524.0,
+            "over_65": 20.6
+        },
+        "2021": {
+            "population": 445767723.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 55624109.0,
+            "over_65": 20.9
+        },
+        "2022": {
+            "population": 445999571.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 56045896.0,
+            "over_65": 21.1
+        },
+        "2023": {
+            "population": 447805685.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 60115595.0,
+            "over_65": 21.3
+        },
+        "2024": {
+            "population": 449489862.0,
+            "fertility_rate": 1.34,
+            "foreign_born": 62634187.0,
+            "over_65": 21.6
+        },
+        "2025": {
+            "population": 450646971.0,
+            "fertility_rate": null,
+            "foreign_born": 64719037.0,
+            "over_65": 22.0
+        }
+    },
+    "FI": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.75,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 5451270.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 297812.0,
+            "over_65": 19.4
+        },
+        "2015": {
+            "population": 5471753.0,
+            "fertility_rate": 1.65,
+            "foreign_born": 314856.0,
+            "over_65": 19.9
+        },
+        "2016": {
+            "population": 5487308.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 329219.0,
+            "over_65": 20.5
+        },
+        "2017": {
+            "population": 5503297.0,
+            "fertility_rate": 1.49,
+            "foreign_born": 348986.0,
+            "over_65": 20.9
+        },
+        "2018": {
+            "population": 5513130.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 363717.0,
+            "over_65": 21.4
+        },
+        "2019": {
+            "population": 5517919.0,
+            "fertility_rate": 1.35,
+            "foreign_born": 377360.0,
+            "over_65": 21.8
+        },
+        "2020": {
+            "population": 5525292.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 393555.0,
+            "over_65": 22.3
+        },
+        "2021": {
+            "population": 5533793.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 408676.0,
+            "over_65": 22.7
+        },
+        "2022": {
+            "population": 5548241.0,
+            "fertility_rate": 1.32,
+            "foreign_born": 428409.0,
+            "over_65": 23.1
+        },
+        "2023": {
+            "population": 5563970.0,
+            "fertility_rate": 1.26,
+            "foreign_born": 461205.0,
+            "over_65": 23.3
+        },
+        "2024": {
+            "population": 5603851.0,
+            "fertility_rate": 1.25,
+            "foreign_born": 520119.0,
+            "over_65": 23.4
+        },
+        "2025": {
+            "population": 5635971.0,
+            "fertility_rate": null,
+            "foreign_born": 566053.0,
+            "over_65": 23.6
+        }
+    },
+    "FR": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.99,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 66165980.0,
+            "fertility_rate": 2.0,
+            "foreign_born": 7746520.0,
+            "over_65": 18.0
+        },
+        "2015": {
+            "population": 66458153.0,
+            "fertility_rate": 1.96,
+            "foreign_born": 7915838.0,
+            "over_65": 18.4
+        },
+        "2016": {
+            "population": 66638391.0,
+            "fertility_rate": 1.92,
+            "foreign_born": 8028227.0,
+            "over_65": 18.9
+        },
+        "2017": {
+            "population": 66809816.0,
+            "fertility_rate": 1.89,
+            "foreign_born": 8098872.0,
+            "over_65": 19.3
+        },
+        "2018": {
+            "population": 67026224.0,
+            "fertility_rate": 1.87,
+            "foreign_born": 8199663.0,
+            "over_65": 19.7
+        },
+        "2019": {
+            "population": 67290471.0,
+            "fertility_rate": 1.86,
+            "foreign_born": 8368280.0,
+            "over_65": 20.0
+        },
+        "2020": {
+            "population": 67473651.0,
+            "fertility_rate": 1.82,
+            "foreign_born": 8473346.0,
+            "over_65": 20.4
+        },
+        "2021": {
+            "population": 67728568.0,
+            "fertility_rate": 1.83,
+            "foreign_born": 8548924.0,
+            "over_65": 20.6
+        },
+        "2022": {
+            "population": 68091703.0,
+            "fertility_rate": 1.78,
+            "foreign_born": 8635504.0,
+            "over_65": 20.9
+        },
+        "2023": {
+            "population": 68436003.0,
+            "fertility_rate": 1.66,
+            "foreign_born": 8963311.0,
+            "over_65": 21.1
+        },
+        "2024": {
+            "population": 68669303.0,
+            "fertility_rate": 1.61,
+            "foreign_born": 9362105.0,
+            "over_65": 21.5
+        },
+        "2025": {
+            "population": 68882600.0,
+            "fertility_rate": null,
+            "foreign_born": 9633730.0,
+            "over_65": 21.9
+        }
+    },
+    "FX": {},
+    "GE": {
+        "2014": {
+            "population": 4490498.0,
+            "fertility_rate": 1.97,
+            "foreign_born": null,
+            "over_65": 14.0
+        },
+        "2015": {
+            "population": 3729500.0,
+            "fertility_rate": 2.21,
+            "foreign_born": null,
+            "over_65": 13.9
+        },
+        "2016": {
+            "population": 3720400.0,
+            "fertility_rate": 2.23,
+            "foreign_born": null,
+            "over_65": 14.4
+        },
+        "2017": {
+            "population": 3718200.0,
+            "fertility_rate": 2.14,
+            "foreign_born": null,
+            "over_65": 14.5
+        },
+        "2018": {
+            "population": 3729633.0,
+            "fertility_rate": 2.09,
+            "foreign_born": null,
+            "over_65": 14.6
+        },
+        "2019": {
+            "population": 3723464.0,
+            "fertility_rate": 2.02,
+            "foreign_born": null,
+            "over_65": 14.8
+        },
+        "2020": {
+            "population": 3716858.0,
+            "fertility_rate": 1.98,
+            "foreign_born": null,
+            "over_65": 15.1
+        },
+        "2021": {
+            "population": 3728573.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 15.2
+        },
+        "2022": {
+            "population": 3688647.0,
+            "fertility_rate": 1.83,
+            "foreign_born": null,
+            "over_65": 15.5
+        },
+        "2023": {
+            "population": 3736357.0,
+            "fertility_rate": 1.71,
+            "foreign_born": null,
+            "over_65": 15.6
+        },
+        "2024": {
+            "population": 3694608.0,
+            "fertility_rate": 1.69,
+            "foreign_born": null,
+            "over_65": 16.2
+        },
+        "2025": {
+            "population": 3704506.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 16.6
+        }
+    },
+    "HR": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.47,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 4217632.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 558092.0,
+            "over_65": 18.5
+        },
+        "2015": {
+            "population": 4180915.0,
+            "fertility_rate": 1.42,
+            "foreign_born": 545115.0,
+            "over_65": 19.0
+        },
+        "2016": {
+            "population": 4131115.0,
+            "fertility_rate": 1.44,
+            "foreign_born": 526279.0,
+            "over_65": 19.4
+        },
+        "2017": {
+            "population": 4078769.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 512411.0,
+            "over_65": 19.9
+        },
+        "2018": {
+            "population": 4014341.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 496265.0,
+            "over_65": 20.5
+        },
+        "2019": {
+            "population": 3968676.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 488393.0,
+            "over_65": 21.1
+        },
+        "2020": {
+            "population": 3933511.0,
+            "fertility_rate": 1.56,
+            "foreign_born": 486390.0,
+            "over_65": 21.6
+        },
+        "2021": {
+            "population": 3893026.0,
+            "fertility_rate": 1.63,
+            "foreign_born": 478056.0,
+            "over_65": 22.2
+        },
+        "2022": {
+            "population": 3862305.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 472308.0,
+            "over_65": 22.5
+        },
+        "2023": {
+            "population": 3850894.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 490555.0,
+            "over_65": 22.7
+        },
+        "2024": {
+            "population": 3861967.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 519916.0,
+            "over_65": 23.0
+        },
+        "2025": {
+            "population": 3874350.0,
+            "fertility_rate": null,
+            "foreign_born": 546622.0,
+            "over_65": 23.3
+        }
+    },
+    "HU": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.36,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 9850217.0,
+            "fertility_rate": 1.45,
+            "foreign_born": 447029.0,
+            "over_65": 17.5
+        },
+        "2015": {
+            "population": 9815858.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 475508.0,
+            "over_65": 17.8
+        },
+        "2016": {
+            "population": 9779652.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 503787.0,
+            "over_65": 18.2
+        },
+        "2017": {
+            "population": 9739857.0,
+            "fertility_rate": 1.56,
+            "foreign_born": 513649.0,
+            "over_65": 18.6
+        },
+        "2018": {
+            "population": 9713655.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 536182.0,
+            "over_65": 18.8
+        },
+        "2019": {
+            "population": 9700272.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 564761.0,
+            "over_65": 19.2
+        },
+        "2020": {
+            "population": 9689376.0,
+            "fertility_rate": 1.61,
+            "foreign_born": 593937.0,
+            "over_65": 19.8
+        },
+        "2021": {
+            "population": 9651461.0,
+            "fertility_rate": 1.63,
+            "foreign_born": 597440.0,
+            "over_65": 20.2
+        },
+        "2022": {
+            "population": 9610403.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 612618.0,
+            "over_65": 20.4
+        },
+        "2023": {
+            "population": 9599744.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 644496.0,
+            "over_65": 20.5
+        },
+        "2024": {
+            "population": 9584627.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 677036.0,
+            "over_65": 20.7
+        },
+        "2025": {
+            "population": 9539502.0,
+            "fertility_rate": null,
+            "foreign_born": 693156.0,
+            "over_65": 20.9
+        }
+    },
+    "IE": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.93,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 4637852.0,
+            "fertility_rate": 1.89,
+            "foreign_born": 754664.0,
+            "over_65": 12.6
+        },
+        "2015": {
+            "population": 4677627.0,
+            "fertility_rate": 1.85,
+            "foreign_born": 759256.0,
+            "over_65": 12.9
+        },
+        "2016": {
+            "population": 4726286.0,
+            "fertility_rate": 1.81,
+            "foreign_born": 773649.0,
+            "over_65": 13.2
+        },
+        "2017": {
+            "population": 4799157.0,
+            "fertility_rate": 1.76,
+            "foreign_born": 936883.0,
+            "over_65": 13.5
+        },
+        "2018": {
+            "population": 4855733.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 957976.0,
+            "over_65": 13.8
+        },
+        "2019": {
+            "population": 4940311.0,
+            "fertility_rate": 1.69,
+            "foreign_born": 990469.0,
+            "over_65": 14.1
+        },
+        "2020": {
+            "population": 5012600.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 1022915.0,
+            "over_65": 14.4
+        },
+        "2021": {
+            "population": 5066893.0,
+            "fertility_rate": 1.72,
+            "foreign_born": 1030012.0,
+            "over_65": 14.7
+        },
+        "2022": {
+            "population": 5154277.0,
+            "fertility_rate": 1.51,
+            "foreign_born": 1050907.0,
+            "over_65": 15.0
+        },
+        "2023": {
+            "population": 5271395.0,
+            "fertility_rate": 1.5,
+            "foreign_born": 1150590.0,
+            "over_65": 15.2
+        },
+        "2024": {
+            "population": 5351681.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 1211883.0,
+            "over_65": 15.5
+        },
+        "2025": {
+            "population": 5440278.0,
+            "fertility_rate": null,
+            "foreign_born": 1267144.0,
+            "over_65": 15.7
+        }
+    },
+    "IS": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.93,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 325671.0,
+            "fertility_rate": 1.93,
+            "foreign_born": 37116.0,
+            "over_65": 13.2
+        },
+        "2015": {
+            "population": 329100.0,
+            "fertility_rate": 1.8,
+            "foreign_born": 39072.0,
+            "over_65": 13.5
+        },
+        "2016": {
+            "population": 332529.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 41853.0,
+            "over_65": 13.9
+        },
+        "2017": {
+            "population": 338349.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 46080.0,
+            "over_65": 14.0
+        },
+        "2018": {
+            "population": 348450.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 53540.0,
+            "over_65": 14.1
+        },
+        "2019": {
+            "population": 356991.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 59999.0,
+            "over_65": 14.2
+        },
+        "2020": {
+            "population": 364134.0,
+            "fertility_rate": 1.72,
+            "foreign_born": 65205.0,
+            "over_65": 14.4
+        },
+        "2021": {
+            "population": 368792.0,
+            "fertility_rate": 1.82,
+            "foreign_born": 67438.0,
+            "over_65": 14.7
+        },
+        "2022": {
+            "population": 376248.0,
+            "fertility_rate": 1.59,
+            "foreign_born": 71767.0,
+            "over_65": 15.0
+        },
+        "2023": {
+            "population": 387758.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 82227.0,
+            "over_65": 15.0
+        },
+        "2024": {
+            "population": 383567.0,
+            "fertility_rate": 1.56,
+            "foreign_born": 80699.0,
+            "over_65": 15.6
+        },
+        "2025": {
+            "population": 389444.0,
+            "fertility_rate": null,
+            "foreign_born": 85012.0,
+            "over_65": 15.9
+        }
+    },
+    "IT": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.39,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 60345917.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 5355018.0,
+            "over_65": 21.5
+        },
+        "2015": {
+            "population": 60295497.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 5383252.0,
+            "over_65": 21.9
+        },
+        "2016": {
+            "population": 60163712.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 5656510.0,
+            "over_65": 22.1
+        },
+        "2017": {
+            "population": 60066734.0,
+            "fertility_rate": 1.34,
+            "foreign_born": 5770263.0,
+            "over_65": 22.4
+        },
+        "2018": {
+            "population": 59937769.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 5888837.0,
+            "over_65": 22.6
+        },
+        "2019": {
+            "population": 59816673.0,
+            "fertility_rate": 1.27,
+            "foreign_born": 6069000.0,
+            "over_65": 22.9
+        },
+        "2020": {
+            "population": 59641488.0,
+            "fertility_rate": 1.24,
+            "foreign_born": 6161391.0,
+            "over_65": 23.2
+        },
+        "2021": {
+            "population": 59236213.0,
+            "fertility_rate": 1.25,
+            "foreign_born": 6262207.0,
+            "over_65": 23.5
+        },
+        "2022": {
+            "population": 59030133.0,
+            "fertility_rate": 1.24,
+            "foreign_born": 6161003.0,
+            "over_65": 23.8
+        },
+        "2023": {
+            "population": 58997201.0,
+            "fertility_rate": 1.21,
+            "foreign_born": 6417206.0,
+            "over_65": 24.0
+        },
+        "2024": {
+            "population": 58971230.0,
+            "fertility_rate": 1.18,
+            "foreign_born": 6673604.0,
+            "over_65": 24.3
+        },
+        "2025": {
+            "population": 58943464.0,
+            "fertility_rate": null,
+            "foreign_born": 6928045.0,
+            "over_65": 24.7
+        }
+    },
+    "LI": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.45,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 37129.0,
+            "fertility_rate": 1.59,
+            "foreign_born": 23424.0,
+            "over_65": 15.5
+        },
+        "2015": {
+            "population": 37366.0,
+            "fertility_rate": 1.4,
+            "foreign_born": 23799.0,
+            "over_65": 16.0
+        },
+        "2016": {
+            "population": 37622.0,
+            "fertility_rate": 1.61,
+            "foreign_born": 24241.0,
+            "over_65": 16.5
+        },
+        "2017": {
+            "population": 37810.0,
+            "fertility_rate": 1.44,
+            "foreign_born": 24634.0,
+            "over_65": 17.0
+        },
+        "2018": {
+            "population": 38114.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 25098.0,
+            "over_65": 17.5
+        },
+        "2019": {
+            "population": 38378.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 25561.0,
+            "over_65": 17.9
+        },
+        "2020": {
+            "population": 38747.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 26081.0,
+            "over_65": 18.3
+        },
+        "2021": {
+            "population": 39055.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 26560.0,
+            "over_65": 18.6
+        },
+        "2022": {
+            "population": 39308.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 26971.0,
+            "over_65": 19.2
+        },
+        "2023": {
+            "population": 39677.0,
+            "fertility_rate": 1.45,
+            "foreign_born": 27435.0,
+            "over_65": 19.6
+        },
+        "2024": {
+            "population": 40015.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 27940.0,
+            "over_65": 20.3
+        },
+        "2025": {
+            "population": 40886.0,
+            "fertility_rate": null,
+            "foreign_born": 28702.0,
+            "over_65": 20.7
+        }
+    },
+    "LT": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.59,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 2947862.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 133746.0,
+            "over_65": 18.4
+        },
+        "2015": {
+            "population": 2926644.0,
+            "fertility_rate": 1.63,
+            "foreign_born": 131929.0,
+            "over_65": 18.6
+        },
+        "2016": {
+            "population": 2895573.0,
+            "fertility_rate": 1.63,
+            "foreign_born": 126264.0,
+            "over_65": 18.8
+        },
+        "2017": {
+            "population": 2859077.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 124964.0,
+            "over_65": 19.1
+        },
+        "2018": {
+            "population": 2826200.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 132127.0,
+            "over_65": 19.4
+        },
+        "2019": {
+            "population": 2812200.0,
+            "fertility_rate": 1.43,
+            "foreign_born": 148679.0,
+            "over_65": 19.5
+        },
+        "2020": {
+            "population": 2809977.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 153697.0,
+            "over_65": 19.6
+        },
+        "2021": {
+            "population": 2810761.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 155586.0,
+            "over_65": 19.9
+        },
+        "2022": {
+            "population": 2805998.0,
+            "fertility_rate": 1.27,
+            "foreign_born": 168787.0,
+            "over_65": 20.0
+        },
+        "2023": {
+            "population": 2857279.0,
+            "fertility_rate": 1.18,
+            "foreign_born": 231822.0,
+            "over_65": 20.0
+        },
+        "2024": {
+            "population": 2885891.0,
+            "fertility_rate": 1.11,
+            "foreign_born": 268299.0,
+            "over_65": 20.3
+        },
+        "2025": {
+            "population": 2890664.0,
+            "fertility_rate": null,
+            "foreign_born": 280950.0,
+            "over_65": 20.9
+        }
+    },
+    "LU": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.55,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 549680.0,
+            "fertility_rate": 1.5,
+            "foreign_born": 237848.0,
+            "over_65": 14.1
+        },
+        "2015": {
+            "population": 562958.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 248888.0,
+            "over_65": 14.2
+        },
+        "2016": {
+            "population": 576249.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 260573.0,
+            "over_65": 14.2
+        },
+        "2017": {
+            "population": 590667.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 270010.0,
+            "over_65": 14.2
+        },
+        "2018": {
+            "population": 602005.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 280151.0,
+            "over_65": 14.3
+        },
+        "2019": {
+            "population": 613894.0,
+            "fertility_rate": 1.34,
+            "foreign_born": 290644.0,
+            "over_65": 14.4
+        },
+        "2020": {
+            "population": 626108.0,
+            "fertility_rate": 1.36,
+            "foreign_born": 301688.0,
+            "over_65": 14.5
+        },
+        "2021": {
+            "population": 634730.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 309164.0,
+            "over_65": 14.6
+        },
+        "2022": {
+            "population": 645397.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 318568.0,
+            "over_65": 14.8
+        },
+        "2023": {
+            "population": 660809.0,
+            "fertility_rate": 1.25,
+            "foreign_born": 333085.0,
+            "over_65": 14.9
+        },
+        "2024": {
+            "population": 672050.0,
+            "fertility_rate": 1.25,
+            "foreign_born": 342943.0,
+            "over_65": 15.0
+        },
+        "2025": {
+            "population": 681973.0,
+            "fertility_rate": null,
+            "foreign_born": 351387.0,
+            "over_65": 15.2
+        }
+    },
+    "LV": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 2001468.0,
+            "fertility_rate": 1.65,
+            "foreign_born": 271126.0,
+            "over_65": 19.1
+        },
+        "2015": {
+            "population": 1986096.0,
+            "fertility_rate": 1.7,
+            "foreign_born": 265418.0,
+            "over_65": 19.4
+        },
+        "2016": {
+            "population": 1968957.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 258889.0,
+            "over_65": 19.6
+        },
+        "2017": {
+            "population": 1950116.0,
+            "fertility_rate": 1.69,
+            "foreign_born": 251465.0,
+            "over_65": 19.9
+        },
+        "2018": {
+            "population": 1934379.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 246040.0,
+            "over_65": 20.1
+        },
+        "2019": {
+            "population": 1919968.0,
+            "fertility_rate": 1.61,
+            "foreign_born": 241754.0,
+            "over_65": 20.3
+        },
+        "2020": {
+            "population": 1907675.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 236953.0,
+            "over_65": 20.5
+        },
+        "2021": {
+            "population": 1893223.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 230095.0,
+            "over_65": 20.8
+        },
+        "2022": {
+            "population": 1875757.0,
+            "fertility_rate": 1.47,
+            "foreign_born": 223631.0,
+            "over_65": 20.9
+        },
+        "2023": {
+            "population": 1895239.0,
+            "fertility_rate": 1.34,
+            "foreign_born": 235022.0,
+            "over_65": 21.0
+        },
+        "2024": {
+            "population": 1878575.0,
+            "fertility_rate": 1.24,
+            "foreign_born": 225320.0,
+            "over_65": 21.4
+        },
+        "2025": {
+            "population": 1860565.0,
+            "fertility_rate": null,
+            "foreign_born": 215606.0,
+            "over_65": 21.9
+        }
+    },
+    "MC": {
+        "2015": {
+            "population": 37700.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2016": {
+            "population": 38200.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2018": {
+            "population": 38300.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2019": {
+            "population": 38300.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2024": {
+            "population": 38367.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 27.2
+        },
+        "2025": {
+            "population": 38423.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 27.5
+        }
+    },
+    "MD": {
+        "2014": {
+            "population": 3557634.0,
+            "fertility_rate": 1.33,
+            "foreign_born": null,
+            "over_65": 10.0
+        },
+        "2015": {
+            "population": 3555159.0,
+            "fertility_rate": 1.54,
+            "foreign_born": null,
+            "over_65": 10.9
+        },
+        "2016": {
+            "population": 2846327.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 11.5
+        },
+        "2017": {
+            "population": 2825628.0,
+            "fertility_rate": 1.72,
+            "foreign_born": null,
+            "over_65": 12.0
+        },
+        "2018": {
+            "population": 2780744.0,
+            "fertility_rate": 1.71,
+            "foreign_born": null,
+            "over_65": 12.6
+        },
+        "2019": {
+            "population": 2729634.0,
+            "fertility_rate": 1.68,
+            "foreign_born": null,
+            "over_65": 13.2
+        },
+        "2020": {
+            "population": 2684772.0,
+            "fertility_rate": 1.69,
+            "foreign_born": null,
+            "over_65": 13.8
+        },
+        "2021": {
+            "population": 2643675.0,
+            "fertility_rate": 1.72,
+            "foreign_born": null,
+            "over_65": 14.4
+        },
+        "2022": {
+            "population": 2565030.0,
+            "fertility_rate": 1.7,
+            "foreign_born": null,
+            "over_65": 15.3
+        },
+        "2023": {
+            "population": 2512758.0,
+            "fertility_rate": 1.62,
+            "foreign_born": null,
+            "over_65": 16.1
+        },
+        "2024": {
+            "population": 2423287.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 17.4
+        },
+        "2025": {
+            "population": 2381325.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 18.3
+        }
+    },
+    "ME": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.73,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 621521.0,
+            "fertility_rate": 1.75,
+            "foreign_born": null,
+            "over_65": 13.3
+        },
+        "2015": {
+            "population": 622099.0,
+            "fertility_rate": 1.74,
+            "foreign_born": null,
+            "over_65": 13.7
+        },
+        "2016": {
+            "population": 622218.0,
+            "fertility_rate": 1.79,
+            "foreign_born": null,
+            "over_65": 14.1
+        },
+        "2017": {
+            "population": 622387.0,
+            "fertility_rate": 1.78,
+            "foreign_born": null,
+            "over_65": 14.4
+        },
+        "2018": {
+            "population": 622359.0,
+            "fertility_rate": 1.76,
+            "foreign_born": null,
+            "over_65": 14.8
+        },
+        "2019": {
+            "population": 622182.0,
+            "fertility_rate": 1.77,
+            "foreign_born": null,
+            "over_65": 15.2
+        },
+        "2020": {
+            "population": 621873.0,
+            "fertility_rate": 1.75,
+            "foreign_born": null,
+            "over_65": 15.6
+        },
+        "2021": {
+            "population": 620739.0,
+            "fertility_rate": 1.76,
+            "foreign_born": null,
+            "over_65": 15.9
+        },
+        "2022": {
+            "population": 617683.0,
+            "fertility_rate": 1.78,
+            "foreign_born": null,
+            "over_65": 16.0
+        },
+        "2023": {
+            "population": 616695.0,
+            "fertility_rate": 1.76,
+            "foreign_born": null,
+            "over_65": 16.4
+        },
+        "2024": {
+            "population": 623680.0,
+            "fertility_rate": 1.75,
+            "foreign_born": null,
+            "over_65": 16.7
+        },
+        "2025": {
+            "population": 623327.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 17.2
+        }
+    },
+    "MK": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.49,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 2065769.0,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": 12.4
+        },
+        "2015": {
+            "population": 2069172.0,
+            "fertility_rate": 1.5,
+            "foreign_born": null,
+            "over_65": 12.7
+        },
+        "2016": {
+            "population": 2071278.0,
+            "fertility_rate": 1.5,
+            "foreign_born": null,
+            "over_65": 13.0
+        },
+        "2017": {
+            "population": 2073702.0,
+            "fertility_rate": 1.43,
+            "foreign_born": null,
+            "over_65": 13.3
+        },
+        "2018": {
+            "population": 2075301.0,
+            "fertility_rate": 1.42,
+            "foreign_born": null,
+            "over_65": 13.7
+        },
+        "2019": {
+            "population": 2077132.0,
+            "fertility_rate": 1.34,
+            "foreign_born": null,
+            "over_65": 14.1
+        },
+        "2020": {
+            "population": 2076255.0,
+            "fertility_rate": 1.31,
+            "foreign_born": null,
+            "over_65": 14.5
+        },
+        "2021": {
+            "population": 2068808.0,
+            "fertility_rate": 1.44,
+            "foreign_born": null,
+            "over_65": 14.8
+        },
+        "2022": {
+            "population": 1837114.0,
+            "fertility_rate": 1.58,
+            "foreign_born": null,
+            "over_65": 17.1
+        },
+        "2023": {
+            "population": 1829954.0,
+            "fertility_rate": 1.49,
+            "foreign_born": null,
+            "over_65": 17.7
+        },
+        "2024": {
+            "population": 1826247.0,
+            "fertility_rate": 1.44,
+            "foreign_born": null,
+            "over_65": 18.1
+        },
+        "2025": {
+            "population": 1822612.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 18.6
+        }
+    },
+    "MT": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.36,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 428156.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 44019.0,
+            "over_65": 17.6
+        },
+        "2015": {
+            "population": 438805.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 52536.0,
+            "over_65": 18.0
+        },
+        "2016": {
+            "population": 449635.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 61525.0,
+            "over_65": 18.3
+        },
+        "2017": {
+            "population": 459375.0,
+            "fertility_rate": 1.26,
+            "foreign_born": 69437.0,
+            "over_65": 18.6
+        },
+        "2018": {
+            "population": 474837.0,
+            "fertility_rate": 1.23,
+            "foreign_born": 83245.0,
+            "over_65": 18.5
+        },
+        "2019": {
+            "population": 492968.0,
+            "fertility_rate": 1.14,
+            "foreign_born": 99436.0,
+            "over_65": 18.4
+        },
+        "2020": {
+            "population": 514855.0,
+            "fertility_rate": 1.14,
+            "foreign_born": 118994.0,
+            "over_65": 18.1
+        },
+        "2021": {
+            "population": 516125.0,
+            "fertility_rate": 1.13,
+            "foreign_born": 119556.0,
+            "over_65": 18.5
+        },
+        "2022": {
+            "population": 520174.0,
+            "fertility_rate": 1.08,
+            "foreign_born": 122742.0,
+            "over_65": 18.8
+        },
+        "2023": {
+            "population": 542051.0,
+            "fertility_rate": 1.06,
+            "foreign_born": 153361.0,
+            "over_65": 18.6
+        },
+        "2024": {
+            "population": 563443.0,
+            "fertility_rate": 1.01,
+            "foreign_born": 173781.0,
+            "over_65": 18.4
+        },
+        "2025": {
+            "population": 574250.0,
+            "fertility_rate": null,
+            "foreign_born": 183765.0,
+            "over_65": 18.4
+        }
+    },
+    "NL": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.68,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 16829289.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 1953436.0,
+            "over_65": 17.3
+        },
+        "2015": {
+            "population": 16900726.0,
+            "fertility_rate": 1.66,
+            "foreign_born": 1996318.0,
+            "over_65": 17.8
+        },
+        "2016": {
+            "population": 16979120.0,
+            "fertility_rate": 1.66,
+            "foreign_born": 2056520.0,
+            "over_65": 18.2
+        },
+        "2017": {
+            "population": 17081507.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 2137234.0,
+            "over_65": 18.5
+        },
+        "2018": {
+            "population": 17181084.0,
+            "fertility_rate": 1.59,
+            "foreign_born": 2215849.0,
+            "over_65": 18.9
+        },
+        "2019": {
+            "population": 17282163.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 2298705.0,
+            "over_65": 19.2
+        },
+        "2020": {
+            "population": 17407585.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 2399804.0,
+            "over_65": 19.5
+        },
+        "2021": {
+            "population": 17475415.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 2451157.0,
+            "over_65": 19.8
+        },
+        "2022": {
+            "population": 17590672.0,
+            "fertility_rate": 1.49,
+            "foreign_born": 2550837.0,
+            "over_65": 20.0
+        },
+        "2023": {
+            "population": 17811291.0,
+            "fertility_rate": 1.43,
+            "foreign_born": 2776950.0,
+            "over_65": 20.2
+        },
+        "2024": {
+            "population": 17942942.0,
+            "fertility_rate": 1.43,
+            "foreign_born": 2914939.0,
+            "over_65": 20.5
+        },
+        "2025": {
+            "population": 18044027.0,
+            "fertility_rate": null,
+            "foreign_born": 3025656.0,
+            "over_65": 20.8
+        }
+    },
+    "NO": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.78,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 5109056.0,
+            "fertility_rate": 1.75,
+            "foreign_born": 709566.0,
+            "over_65": 15.9
+        },
+        "2015": {
+            "population": 5165802.0,
+            "fertility_rate": 1.72,
+            "foreign_born": 747423.0,
+            "over_65": 16.2
+        },
+        "2016": {
+            "population": 5213985.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 778764.0,
+            "over_65": 16.4
+        },
+        "2017": {
+            "population": 5258317.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 806618.0,
+            "over_65": 16.6
+        },
+        "2018": {
+            "population": 5295619.0,
+            "fertility_rate": 1.56,
+            "foreign_born": 829705.0,
+            "over_65": 16.9
+        },
+        "2019": {
+            "population": 5328212.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 849354.0,
+            "over_65": 17.2
+        },
+        "2020": {
+            "population": 5367580.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 867778.0,
+            "over_65": 17.5
+        },
+        "2021": {
+            "population": 5391369.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 878153.0,
+            "over_65": 17.9
+        },
+        "2022": {
+            "population": 5425270.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 906843.0,
+            "over_65": 18.2
+        },
+        "2023": {
+            "population": 5488984.0,
+            "fertility_rate": 1.4,
+            "foreign_born": 965546.0,
+            "over_65": 18.4
+        },
+        "2024": {
+            "population": 5550203.0,
+            "fertility_rate": 1.45,
+            "foreign_born": 1020048.0,
+            "over_65": 18.7
+        },
+        "2025": {
+            "population": 5594340.0,
+            "fertility_rate": null,
+            "foreign_born": 1045785.0,
+            "over_65": 19.0
+        }
+    },
+    "PL": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.29,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 38017856.0,
+            "fertility_rate": 1.32,
+            "foreign_born": 620308.0,
+            "over_65": 14.9
+        },
+        "2015": {
+            "population": 38005614.0,
+            "fertility_rate": 1.32,
+            "foreign_born": 611855.0,
+            "over_65": 15.4
+        },
+        "2016": {
+            "population": 37967209.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 626396.0,
+            "over_65": 16.0
+        },
+        "2017": {
+            "population": 37972964.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 651845.0,
+            "over_65": 16.5
+        },
+        "2018": {
+            "population": 37976687.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 695850.0,
+            "over_65": 17.1
+        },
+        "2019": {
+            "population": 37972812.0,
+            "fertility_rate": 1.44,
+            "foreign_born": 760849.0,
+            "over_65": 17.7
+        },
+        "2020": {
+            "population": 37958138.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 849320.0,
+            "over_65": 18.2
+        },
+        "2021": {
+            "population": 37073357.0,
+            "fertility_rate": 1.33,
+            "foreign_born": 935740.0,
+            "over_65": 18.9
+        },
+        "2022": {
+            "population": 36889761.0,
+            "fertility_rate": 1.29,
+            "foreign_born": 931158.0,
+            "over_65": 19.4
+        },
+        "2023": {
+            "population": 36753736.0,
+            "fertility_rate": 1.2,
+            "foreign_born": 933118.0,
+            "over_65": 19.9
+        },
+        "2024": {
+            "population": 36620970.0,
+            "fertility_rate": 1.14,
+            "foreign_born": 935897.0,
+            "over_65": 20.5
+        },
+        "2025": {
+            "population": 36497495.0,
+            "fertility_rate": null,
+            "foreign_born": 940259.0,
+            "over_65": 21.0
+        }
+    },
+    "PT": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.21,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 10444092.0,
+            "fertility_rate": 1.24,
+            "foreign_born": 1176104.0,
+            "over_65": 20.0
+        },
+        "2015": {
+            "population": 10395121.0,
+            "fertility_rate": 1.31,
+            "foreign_born": 1160656.0,
+            "over_65": 20.4
+        },
+        "2016": {
+            "population": 10368554.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 1170320.0,
+            "over_65": 20.9
+        },
+        "2017": {
+            "population": 10344478.0,
+            "fertility_rate": 1.38,
+            "foreign_born": 1200249.0,
+            "over_65": 21.3
+        },
+        "2018": {
+            "population": 10335770.0,
+            "fertility_rate": 1.42,
+            "foreign_born": 1236888.0,
+            "over_65": 21.8
+        },
+        "2019": {
+            "population": 10333496.0,
+            "fertility_rate": 1.44,
+            "foreign_born": 1307266.0,
+            "over_65": 22.2
+        },
+        "2020": {
+            "population": 10375395.0,
+            "fertility_rate": 1.42,
+            "foreign_born": 1416498.0,
+            "over_65": 22.7
+        },
+        "2021": {
+            "population": 10394297.0,
+            "fertility_rate": 1.35,
+            "foreign_born": 1495524.0,
+            "over_65": 23.2
+        },
+        "2022": {
+            "population": 10421117.0,
+            "fertility_rate": 1.43,
+            "foreign_born": 1568066.0,
+            "over_65": 23.6
+        },
+        "2023": {
+            "population": 10467366.0,
+            "fertility_rate": 1.45,
+            "foreign_born": 1733067.0,
+            "over_65": 23.9
+        },
+        "2024": {
+            "population": 10639726.0,
+            "fertility_rate": 1.41,
+            "foreign_born": 1703848.0,
+            "over_65": 24.1
+        },
+        "2025": {
+            "population": 10749635.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 24.3
+        }
+    },
+    "RO": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.46,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 19947311.0,
+            "fertility_rate": 1.56,
+            "foreign_born": 211210.0,
+            "over_65": 16.5
+        },
+        "2015": {
+            "population": 19870647.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 281048.0,
+            "over_65": 17.0
+        },
+        "2016": {
+            "population": 19760585.0,
+            "fertility_rate": 1.69,
+            "foreign_born": 347344.0,
+            "over_65": 17.4
+        },
+        "2017": {
+            "population": 19643949.0,
+            "fertility_rate": 1.78,
+            "foreign_born": 419238.0,
+            "over_65": 17.8
+        },
+        "2018": {
+            "population": 19533481.0,
+            "fertility_rate": 1.76,
+            "foreign_born": 510526.0,
+            "over_65": 18.2
+        },
+        "2019": {
+            "population": 19414458.0,
+            "fertility_rate": 1.77,
+            "foreign_born": 611627.0,
+            "over_65": 18.5
+        },
+        "2020": {
+            "population": 19328838.0,
+            "fertility_rate": 1.8,
+            "foreign_born": 723913.0,
+            "over_65": 18.9
+        },
+        "2021": {
+            "population": 19201662.0,
+            "fertility_rate": 1.81,
+            "foreign_born": 688697.0,
+            "over_65": 19.3
+        },
+        "2022": {
+            "population": 19043098.0,
+            "fertility_rate": 1.75,
+            "foreign_born": 831546.0,
+            "over_65": 19.5
+        },
+        "2023": {
+            "population": 19055228.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 981748.0,
+            "over_65": 19.7
+        },
+        "2024": {
+            "population": 19067576.0,
+            "fertility_rate": 1.39,
+            "foreign_born": 1080457.0,
+            "over_65": 20.0
+        },
+        "2025": {
+            "population": 19043151.0,
+            "fertility_rate": null,
+            "foreign_born": 1171823.0,
+            "over_65": 20.3
+        }
+    },
+    "RS": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.43,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 7146759.0,
+            "fertility_rate": 1.46,
+            "foreign_born": null,
+            "over_65": 18.0
+        },
+        "2015": {
+            "population": 7114393.0,
+            "fertility_rate": 1.46,
+            "foreign_born": null,
+            "over_65": 18.5
+        },
+        "2016": {
+            "population": 7076372.0,
+            "fertility_rate": 1.46,
+            "foreign_born": null,
+            "over_65": 19.0
+        },
+        "2017": {
+            "population": 7040272.0,
+            "fertility_rate": 1.49,
+            "foreign_born": null,
+            "over_65": 19.4
+        },
+        "2018": {
+            "population": 7001444.0,
+            "fertility_rate": 1.49,
+            "foreign_born": null,
+            "over_65": 19.9
+        },
+        "2019": {
+            "population": 6963764.0,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": 20.4
+        },
+        "2020": {
+            "population": 6926705.0,
+            "fertility_rate": 1.48,
+            "foreign_born": null,
+            "over_65": 21.0
+        },
+        "2021": {
+            "population": 6871547.0,
+            "fertility_rate": 1.52,
+            "foreign_born": null,
+            "over_65": 21.3
+        },
+        "2022": {
+            "population": 6797105.0,
+            "fertility_rate": 1.59,
+            "foreign_born": null,
+            "over_65": 21.3
+        },
+        "2023": {
+            "population": 6641197.0,
+            "fertility_rate": 1.62,
+            "foreign_born": null,
+            "over_65": 22.1
+        },
+        "2024": {
+            "population": 6605168.0,
+            "fertility_rate": 1.64,
+            "foreign_born": null,
+            "over_65": 22.4
+        },
+        "2025": {
+            "population": 6567783.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 22.7
+        }
+    },
+    "RU": {
+        "2014": {
+            "population": 143666931.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 13.1
+        }
+    },
+    "SE": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.89,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 9644864.0,
+            "fertility_rate": 1.88,
+            "foreign_born": 1532563.0,
+            "over_65": 19.4
+        },
+        "2015": {
+            "population": 9747355.0,
+            "fertility_rate": 1.85,
+            "foreign_born": 1602522.0,
+            "over_65": 19.6
+        },
+        "2016": {
+            "population": 9851017.0,
+            "fertility_rate": 1.85,
+            "foreign_born": 1675116.0,
+            "over_65": 19.8
+        },
+        "2017": {
+            "population": 9995153.0,
+            "fertility_rate": 1.78,
+            "foreign_born": 1783179.0,
+            "over_65": 19.8
+        },
+        "2018": {
+            "population": 10120242.0,
+            "fertility_rate": 1.76,
+            "foreign_born": 1875637.0,
+            "over_65": 19.8
+        },
+        "2019": {
+            "population": 10230185.0,
+            "fertility_rate": 1.71,
+            "foreign_born": 1954065.0,
+            "over_65": 19.9
+        },
+        "2020": {
+            "population": 10327589.0,
+            "fertility_rate": 1.67,
+            "foreign_born": 2018191.0,
+            "over_65": 20.0
+        },
+        "2021": {
+            "population": 10379295.0,
+            "fertility_rate": 1.67,
+            "foreign_born": 2045234.0,
+            "over_65": 20.1
+        },
+        "2022": {
+            "population": 10452326.0,
+            "fertility_rate": 1.53,
+            "foreign_born": 2089008.0,
+            "over_65": 20.3
+        },
+        "2023": {
+            "population": 10521556.0,
+            "fertility_rate": 1.45,
+            "foreign_born": 2144268.0,
+            "over_65": 20.4
+        },
+        "2024": {
+            "population": 10551707.0,
+            "fertility_rate": 1.43,
+            "foreign_born": 2169296.0,
+            "over_65": 20.6
+        },
+        "2025": {
+            "population": 10587710.0,
+            "fertility_rate": null,
+            "foreign_born": 2199046.0,
+            "over_65": 20.8
+        }
+    },
+    "SI": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.55,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 2061085.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 235310.0,
+            "over_65": 17.5
+        },
+        "2015": {
+            "population": 2062874.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 237616.0,
+            "over_65": 17.9
+        },
+        "2016": {
+            "population": 2064188.0,
+            "fertility_rate": 1.58,
+            "foreign_born": 241203.0,
+            "over_65": 18.4
+        },
+        "2017": {
+            "population": 2065895.0,
+            "fertility_rate": 1.62,
+            "foreign_born": 245369.0,
+            "over_65": 18.9
+        },
+        "2018": {
+            "population": 2066880.0,
+            "fertility_rate": 1.6,
+            "foreign_born": 250226.0,
+            "over_65": 19.4
+        },
+        "2019": {
+            "population": 2080908.0,
+            "fertility_rate": 1.61,
+            "foreign_born": 265072.0,
+            "over_65": 19.8
+        },
+        "2020": {
+            "population": 2095861.0,
+            "fertility_rate": 1.59,
+            "foreign_born": 281621.0,
+            "over_65": 20.2
+        },
+        "2021": {
+            "population": 2108977.0,
+            "fertility_rate": 1.64,
+            "foreign_born": 292824.0,
+            "over_65": 20.7
+        },
+        "2022": {
+            "population": 2107180.0,
+            "fertility_rate": 1.55,
+            "foreign_born": 294533.0,
+            "over_65": 21.1
+        },
+        "2023": {
+            "population": 2116972.0,
+            "fertility_rate": 1.51,
+            "foreign_born": 309289.0,
+            "over_65": 21.4
+        },
+        "2024": {
+            "population": 2123949.0,
+            "fertility_rate": 1.52,
+            "foreign_born": 319914.0,
+            "over_65": 21.8
+        },
+        "2025": {
+            "population": 2130850.0,
+            "fertility_rate": null,
+            "foreign_born": 329515.0,
+            "over_65": 22.1
+        }
+    },
+    "SK": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.34,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 5415949.0,
+            "fertility_rate": 1.37,
+            "foreign_born": 174908.0,
+            "over_65": 13.5
+        },
+        "2015": {
+            "population": 5421349.0,
+            "fertility_rate": 1.4,
+            "foreign_born": 177624.0,
+            "over_65": 14.0
+        },
+        "2016": {
+            "population": 5426252.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 181642.0,
+            "over_65": 14.4
+        },
+        "2017": {
+            "population": 5435343.0,
+            "fertility_rate": 1.52,
+            "foreign_born": 186217.0,
+            "over_65": 15.0
+        },
+        "2018": {
+            "population": 5443120.0,
+            "fertility_rate": 1.54,
+            "foreign_born": 190308.0,
+            "over_65": 15.5
+        },
+        "2019": {
+            "population": 5450421.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 194389.0,
+            "over_65": 16.0
+        },
+        "2020": {
+            "population": 5457873.0,
+            "fertility_rate": 1.59,
+            "foreign_born": 198429.0,
+            "over_65": 16.6
+        },
+        "2021": {
+            "population": 5459781.0,
+            "fertility_rate": 1.63,
+            "foreign_born": 201941.0,
+            "over_65": 17.1
+        },
+        "2022": {
+            "population": 5434712.0,
+            "fertility_rate": 1.57,
+            "foreign_born": 213171.0,
+            "over_65": 17.4
+        },
+        "2023": {
+            "population": 5428792.0,
+            "fertility_rate": 1.49,
+            "foreign_born": 213178.0,
+            "over_65": 17.9
+        },
+        "2024": {
+            "population": 5424687.0,
+            "fertility_rate": 1.46,
+            "foreign_born": 214037.0,
+            "over_65": 18.4
+        },
+        "2025": {
+            "population": 5419451.0,
+            "fertility_rate": null,
+            "foreign_born": 215941.0,
+            "over_65": 18.8
+        }
+    },
+    "SM": {
+        "2014": {
+            "population": 32520.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2015": {
+            "population": 32789.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2016": {
+            "population": 33005.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2017": {
+            "population": 33196.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2018": {
+            "population": 34453.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 19.2
+        },
+        "2019": {
+            "population": 34590.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2020": {
+            "population": 34735.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2021": {
+            "population": 34805.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2022": {
+            "population": 33698.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2023": {
+            "population": 33812.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "TR": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 2.08,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 76667864.0,
+            "fertility_rate": 2.17,
+            "foreign_born": null,
+            "over_65": 7.7
+        },
+        "2015": {
+            "population": 77695904.0,
+            "fertility_rate": 2.14,
+            "foreign_born": null,
+            "over_65": 8.0
+        },
+        "2016": {
+            "population": 78741053.0,
+            "fertility_rate": 2.11,
+            "foreign_born": null,
+            "over_65": 8.2
+        },
+        "2017": {
+            "population": 79814871.0,
+            "fertility_rate": 2.07,
+            "foreign_born": null,
+            "over_65": 8.3
+        },
+        "2018": {
+            "population": 80810525.0,
+            "fertility_rate": 1.99,
+            "foreign_born": null,
+            "over_65": 8.5
+        },
+        "2019": {
+            "population": 82003882.0,
+            "fertility_rate": 1.88,
+            "foreign_born": 2278490.0,
+            "over_65": 8.8
+        },
+        "2020": {
+            "population": 83154997.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 9.1
+        },
+        "2021": {
+            "population": 83614362.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 9.5
+        },
+        "2022": {
+            "population": 84680273.0,
+            "fertility_rate": 1.63,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2023": {
+            "population": 85279553.0,
+            "fertility_rate": 1.51,
+            "foreign_born": 3242683.0,
+            "over_65": 9.9
+        },
+        "2024": {
+            "population": 85372377.0,
+            "fertility_rate": 1.48,
+            "foreign_born": 3003234.0,
+            "over_65": 10.2
+        },
+        "2025": {
+            "population": 85664944.0,
+            "fertility_rate": null,
+            "foreign_born": 2930821.0,
+            "over_65": 10.6
+        }
+    },
+    "UA": {
+        "2014": {
+            "population": 45245894.0,
+            "fertility_rate": 1.46,
+            "foreign_born": null,
+            "over_65": 15.3
+        },
+        "2015": {
+            "population": 42759661.0,
+            "fertility_rate": 1.36,
+            "foreign_born": null,
+            "over_65": 15.6
+        },
+        "2016": {
+            "population": 42590879.0,
+            "fertility_rate": 1.35,
+            "foreign_born": null,
+            "over_65": 15.9
+        },
+        "2017": {
+            "population": 42414905.0,
+            "fertility_rate": 1.26,
+            "foreign_born": null,
+            "over_65": 16.2
+        },
+        "2018": {
+            "population": 42216766.0,
+            "fertility_rate": 1.2,
+            "foreign_born": null,
+            "over_65": 16.5
+        },
+        "2019": {
+            "population": 41983564.0,
+            "fertility_rate": 1.14,
+            "foreign_born": null,
+            "over_65": 16.8
+        },
+        "2020": {
+            "population": 41732779.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 17.1
+        },
+        "2021": {
+            "population": null,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 17.4
+        },
+        "2022": {
+            "population": 40997698.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 17.6
+        }
+    },
+    "UK": {
+        "2013": {
+            "population": null,
+            "fertility_rate": 1.83,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2014": {
+            "population": 64351203.0,
+            "fertility_rate": 1.81,
+            "foreign_born": 8039324.0,
+            "over_65": 17.5
+        },
+        "2015": {
+            "population": 64853393.0,
+            "fertility_rate": 1.8,
+            "foreign_born": 8406996.0,
+            "over_65": 17.7
+        },
+        "2016": {
+            "population": 65379044.0,
+            "fertility_rate": 1.79,
+            "foreign_born": 8696511.0,
+            "over_65": 17.9
+        },
+        "2017": {
+            "population": 65844142.0,
+            "fertility_rate": 1.74,
+            "foreign_born": 9298018.0,
+            "over_65": 18.1
+        },
+        "2018": {
+            "population": 66273576.0,
+            "fertility_rate": 1.68,
+            "foreign_born": 9512464.0,
+            "over_65": 18.2
+        },
+        "2019": {
+            "population": 66647112.0,
+            "fertility_rate": null,
+            "foreign_born": 9469015.0,
+            "over_65": 18.4
+        },
+        "2020": {
+            "population": 67025542.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        }
+    },
+    "XK": {
+        "2014": {
+            "population": 1820631.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2015": {
+            "population": 1804944.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": null
+        },
+        "2016": {
+            "population": 1771604.0,
+            "fertility_rate": 1.66,
+            "foreign_born": null,
+            "over_65": 7.1
+        },
+        "2017": {
+            "population": 1783531.0,
+            "fertility_rate": 1.65,
+            "foreign_born": null,
+            "over_65": 8.1
+        },
+        "2018": {
+            "population": 1798506.0,
+            "fertility_rate": 1.61,
+            "foreign_born": null,
+            "over_65": 8.1
+        },
+        "2019": {
+            "population": 1795666.0,
+            "fertility_rate": 1.55,
+            "foreign_born": null,
+            "over_65": 8.5
+        },
+        "2020": {
+            "population": 1782115.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 8.9
+        },
+        "2021": {
+            "population": 1798186.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 8.9
+        },
+        "2022": {
+            "population": 1773971.0,
+            "fertility_rate": null,
+            "foreign_born": null,
+            "over_65": 9.1
+        }
+    }
+}
