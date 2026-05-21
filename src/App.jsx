@@ -9,53 +9,114 @@ import Topbar from './components/Topbar'
 
 function App() {
   const [activeCategory, setCategory] = useState("gdp")
+  const [activeYear, setActiveYear] = useState("2024")
   const [economieData, setEconomieData] = useState(null)
   const [migrationData, setMigrationData] = useState(null)
   const [populationData, setPopulationData] = useState(null)
 
   // Haal de JSON op uit de public map
+  // useEffect(() => {
+  //   fetch("/gdp_nominaal_gecombineerd.json")
+  //     .then((res) => res.json())
+  //     .then((data) => setEconomieData(data))
+  //     .catch((err) => console.error("Kon economy.json niet laden:", err))
+  // }, [])
+
+  // useEffect(() => {
+  //   fetch("/migratie_gecombineerd.json")
+  //     .then((res) => res.json())
+  //     .then((data) => setMigrationData(data))
+  //     .catch((err) => console.error("Kon migration.json niet laden:", err))
+  // }, [])
+
+  // useEffect(() => {
+  //   fetch("/demografie_gecombineerd.json")
+  //     .then((res) => res.json())
+  //     .then((data) => setPopulationData(data))
+  //     .catch((err) => console.error("Kon population.json niet laden:", err))
+  // }, [])
+
   useEffect(() => {
-    fetch("/economy.json")
-      .then((res) => res.json())
+    const url = `${import.meta.env.BASE_URL}gdp_nominaal_gecombineerd.json`;
+    fetch(url)
+      .then((res) => {
+        if (!res.ok) throw new Error(`Server gaf status ${res.status} op ${url}`);
+        return res.json();
+      })
       .then((data) => setEconomieData(data))
-      .catch((err) => console.error("Kon economy.json niet laden:", err))
+      .catch((err) => console.error("Fout bij laden gdp JSON:", err))
   }, [])
 
   useEffect(() => {
-    fetch("/migration.json")
-      .then((res) => res.json())
+    const url = `${import.meta.env.BASE_URL}migratie_gecombineerd.json`;
+    fetch(url)
+      .then((res) => {
+        if (!res.ok) throw new Error(`Server gaf status ${res.status} op ${url}`);
+        return res.json();
+      })
       .then((data) => setMigrationData(data))
-      .catch((err) => console.error("Kon migration.json niet laden:", err))
+      .catch((err) => console.error("Fout bij laden migratie JSON:", err))
   }, [])
 
   useEffect(() => {
-    fetch("/population.json")
-      .then((res) => res.json())
+    const url = `${import.meta.env.BASE_URL}demografie_gecombineerd.json`;
+    fetch(url)
+      .then((res) => {
+        if (!res.ok) throw new Error(`Server gaf status ${res.status} op ${url}`);
+        return res.json();
+      })
       .then((data) => setPopulationData(data))
-      .catch((err) => console.error("Kon population.json niet laden:", err))
+      .catch((err) => console.error("Fout bij laden demografie JSON:", err))
   }, [])
 
   const getGefilterdeData = () => {
     const resultaat = {}
 
-    if (["gdp", "gdp_pc", "ppp", "ppp_pc"].includes(activeCategory) && economieData) {
+    if (["gdp", "gdp_pc"].includes(activeCategory) && economieData) {
+      console.log(economieData)
+      const jsonKey = activeCategory === "gdp" ? "gdp_nominal_millions" : "gdp_per_capita_nominal"
+
       Object.keys(economieData).forEach((code) => {
-        resultaat[code] = economieData[code][activeCategory]
+        const landData = economieData[code]
+        
+        if (landData && landData[activeYear]) {
+          resultaat[code] = landData[activeYear][jsonKey]
+        } else {
+          resultaat[code] = null
+        }
       })
-    } 
+    }
 
 
-    if (["migration_total", "migration_last_year"].includes(activeCategory) && migrationData) {
+    if (["immigration", "emigration", "net_migration"].includes(activeCategory) && migrationData) {
+      console.log(migrationData)
       Object.keys(migrationData).forEach((code) => {
-        resultaat[code] = migrationData[code][activeCategory]
+        const landData = migrationData[code]
+        
+        if (landData && landData[activeYear]) {
+          const jaarData = landData[activeYear]
+          
+          resultaat[code] = jaarData[activeCategory] ?? jaarData[`${activeCategory}_total`] ?? null
+        } else {
+          resultaat[code] = null
+        }
       })
-    } 
+    }
 
-    if (["population_total", "population_growth"].includes(activeCategory) && populationData) {
+    if (["population", "fertility_rate", "foreign_born", "over_65"].includes(activeCategory) && populationData) {
+      console.log(populationData)
       Object.keys(populationData).forEach((code) => {
-        resultaat[code] = populationData[code][activeCategory]
+        const landData = populationData[code]
+        
+        if (landData && landData[activeYear]) {
+          const jaarData = landData[activeYear]
+          
+          resultaat[code] = jaarData[activeCategory] ?? jaarData[`${activeCategory}_total`] ?? null
+        } else {
+          resultaat[code] = null
+        }
       })
-    } 
+    }
     return resultaat
   }
 
@@ -68,7 +129,7 @@ function App() {
       <div className="flex flex-col md:flex-row flex-1 w-full h-auto md:h-[calc(100vh-120px)] p-5 gap-5">
         
         {/* 5. Geef de state en wissel-functie mee aan de Sidebar */}
-        <div className="flex justify-center w-full">
+        <div className="flex justify-center md:block md:h-full">
           <Sidebar activeCategory={activeCategory} setCategory={setCategory} />
         </div>
         <div className="flex-1 h-[100vh] md:h-full relative rounded-xl overflow-hidden border border-gray-100 shadow-sm">

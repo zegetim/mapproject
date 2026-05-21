@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { ComposableMap, Geographies, Geography, ZoomableGroup, Sphere, Graticule, Marker } from "react-simple-maps";
 import { scaleLinear } from "d3-scale"; // Vergeet niet: npm install d3-scale
 
-const geoUrl = "/europe_map2.geo.json";
+const geoUrl = "europe_map2.geo.json";
 
 const landCentroids = [
   { code: "NL", coordinates: [5.2913, 52.1326] },
@@ -61,14 +61,20 @@ export default function MapComponent({ activeCategory, currentData }) {
       return scaleLinear().domain([50000, 6000000]).range(["#fdf4ff", "#701a75"])(waarde);
     }
     // Voor de migratie knoppen
-    if (activeCategory.startsWith("migration")) {
+    if (activeCategory.endsWith("migration")) {
       return scaleLinear().domain([10000, 3000000]).range(["#fdf4ff", "#701a75"])(waarde);
     }
-    if (activeCategory.startsWith("population_total")) {
+    if (activeCategory.startsWith("population")) {
       return scaleLinear().domain([10000, 100000000]).range(["#fdf4ff", "#701a75"])(waarde);
     } 
-    if (activeCategory.startsWith("population_growth")) {
+    if (activeCategory.startsWith("fertility_rate")) {
       return scaleLinear().domain([0, 5]).range(["#fdf4ff", "#701a75"])(waarde);
+    }
+    if (activeCategory.startsWith("foreign_born")) {
+      return scaleLinear().domain([0, 20000000]).range(["#fdf4ff", "#701a75"])(waarde);
+    }
+    if (activeCategory.startsWith("over_65")) {
+      return scaleLinear().domain([15, 30]).range(["#fdf4ff", "#701a75"])(waarde);
     }
     return "#E2E8F0";
   };
@@ -157,26 +163,3 @@ export default function MapComponent({ activeCategory, currentData }) {
     </div>
   );
 }
-
-
-// import { ComposableMap, Geographies, Geography, ZoomableGroup } from "react-simple-maps";
-
-// const geoUrl = "/europe_map.geo.json";
-
-// export default function MapComponent(){
-//     return(
-//         <div className="absolute inset-0 z-0 w-full h-full">
-//             <ComposableMap>
-//                 <ZoomableGroup center={[10, 53]} zoom={2.5}>
-//                     <Geographies geography={geoUrl}>
-//                     {({ geographies }) =>
-//                         geographies.map((geo) => (
-//                         <Geography key={geo.rsmKey} geography={geo} />
-//                         ))
-//                     }
-//                     </Geographies>
-//                 </ZoomableGroup>
-//             </ComposableMap>
-//         </div>
-//     )
-// }
