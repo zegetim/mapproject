@@ -150,7 +150,7 @@ export default function MapComponent({ activeCategory, currentData }) {
                     textAnchor="middle"
                     y={1} // Gecentreerd op de coördinaat nu de landcode weg is
                     className="fill-slate-700 font-sans font-bold select-none pointer-events-none"
-                    style={{ fontSize: "2px" }} // Ietsje groter gemaakt voor betere leesbaarheid
+                    style={{ fontSize: "3.5px" }} // Ietsje groter gemaakt voor betere leesbaarheid
                   >
                     {geformatteerdeWaarde}
                   </text>

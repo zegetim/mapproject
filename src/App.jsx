@@ -126,7 +126,7 @@ function App() {
     <div className="flex flex-col min-h-screen md:h-screen w-screen bg-white md:overflow-hidden">
       <Topbar></Topbar>
 
-      <div className="flex flex-col md:flex-row flex-1 w-full h-auto md:h-[calc(100vh-120px)] p-5 gap-5">
+      <div className="flex flex-col-reverse md:flex-row flex-1 w-full h-auto md:h-[calc(100vh-120px)] p-5 gap-5">
         
         {/* 5. Geef de state en wissel-functie mee aan de Sidebar */}
         <div className="flex justify-center md:block md:h-full">
