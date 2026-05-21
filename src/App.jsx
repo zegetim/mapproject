@@ -126,17 +126,33 @@ function App() {
     <div className="flex flex-col min-h-screen md:h-screen w-screen bg-white md:overflow-hidden">
       <Topbar></Topbar>
 
-      <div className="flex flex-col-reverse md:flex-row flex-1 w-full h-auto md:h-[calc(100vh-120px)] p-5 gap-5">
-        
+      <div className="z-20 bg-white py-3 flex flex-col items-center gap-0.5 ">
+        <div className="flex items-center bg-slate-100 p-0.5 overflow-x-auto max-w-full rounded-xl border border-slate-200/60">
+          {["2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"].map((jaar) => (
+            <button
+              key={jaar}
+              onClick={() => setActiveYear(jaar)}
+              className={`px-2.5 py-1 text-xs font-semibold rounded-lg transition-all duration-200 ${
+                activeYear === jaar
+                  ? "bg-white text-slate-800 shadow-sm border border-slate-200/50 scale-105 font-bold"
+                  : "text-slate-500 hover:text-slate-800 hover:bg-slate-200/40"
+              }`}
+            >
+              {jaar}
+            </button>
+          ))}
+        </div>
+      </div>
+      
+      <div className="flex flex-col-reverse md:flex-row flex-1 w-full h-auto md:h-[calc(100vh-120px)] p-2 gap-5">
         {/* 5. Geef de state en wissel-functie mee aan de Sidebar */}
         <div className="flex justify-center md:block md:h-full">
           <Sidebar activeCategory={activeCategory} setCategory={setCategory} />
         </div>
-        <div className="flex-1 h-[100vh] md:h-full relative rounded-xl overflow-hidden border border-gray-100 shadow-sm">
-          
+
+        <div className="flex-1 h-[100vh] md:h-full relative rounded-xl overflow-hidden border border-gray-100 shadow-sm bg-slate-50">
           {/* 6. Geef de actieve categorie en de gefilterde data mee aan de Kaart */}
           <MapComponent activeCategory={activeCategory} currentData={huidigeKaartData} />
-          
         </div>
       </div>
     </div>

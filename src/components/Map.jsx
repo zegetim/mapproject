@@ -12,7 +12,7 @@ const landCentroids = [
   { code: "AT", coordinates: [14.5501, 47.5162] },
   { code: "DK", coordinates: [9.5018, 56.2639] },
   { code: "ES", coordinates: [-3.7492, 40.4637] },
-  { code: "IT", coordinates: [12.5674, 41.8719] },
+  { code: "IT", coordinates: [13.035329817991554, 42.61216589533072] },
   { code: "PL", coordinates: [19.1451, 51.9194] },
   { code: "GB", coordinates: [-0.877845, 51.991807] },
   { code: "IE", coordinates: [-8.2439, 53.4129] },
@@ -25,7 +25,19 @@ const landCentroids = [
   { code: "HU", coordinates: [19.5033, 47.1625] },
   { code: "CZ", coordinates: [15.4730, 49.8175] },
   { code: "BG", coordinates: [25.4858, 42.7339] },
-  { code: "GR", coordinates: [21.8243, 39.0742] }
+  { code: "GR", coordinates: [21.8243, 39.0742] },
+  { code: "EE", coordinates: [25.0136, 58.5953] }, 
+  { code: "LV", coordinates: [24.6032, 56.8796] }, 
+  { code: "LT", coordinates: [23.8813, 55.1694] },
+  { code: "IS", coordinates: [-19.0208, 64.9631] }, 
+  { code: "CY", coordinates: [33.4299, 35.1264] },  
+  { code: "HR", coordinates: [15.2000, 45.1000] }, 
+  { code: "LU", coordinates: [6.356654197554594, 49.47084450074868] }, 
+  { code: "SI", coordinates: [14.9955, 46.1512] }, 
+  { code: "RS", coordinates: [21.0059, 44.0165] }, 
+  { code: "AL", coordinates: [19.336856385558466, 40.63342059919235] }, 
+  { code: "MK", coordinates: [21.7453, 41.6086] }, 
+  { code: "ME", coordinates: [19.3744, 42.7086] }   
 ];
 
 export default function MapComponent({ activeCategory, currentData }) { 
@@ -54,27 +66,27 @@ export default function MapComponent({ activeCategory, currentData }) {
 
     // Voor gdp_pc en ppp_pc (per inwoner)
     if (activeCategory === "gdp_pc" || activeCategory === "ppp_pc") {
-      return scaleLinear().domain([15000, 120000]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([15000, 120000]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     // Voor totaal gdp en totaal ppp (in miljoenen)
     if (activeCategory === "gdp" || activeCategory === "ppp") {
-      return scaleLinear().domain([50000, 6000000]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([10000, 6000000]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     // Voor de migratie knoppen
     if (activeCategory.endsWith("migration")) {
-      return scaleLinear().domain([10000, 3000000]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([10000, 3000000]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     if (activeCategory.startsWith("population")) {
-      return scaleLinear().domain([10000, 100000000]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([10000, 100000000]).range(["#2dd4bf", "#115e59"])(waarde);
     } 
     if (activeCategory.startsWith("fertility_rate")) {
-      return scaleLinear().domain([0, 5]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([0, 5]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     if (activeCategory.startsWith("foreign_born")) {
-      return scaleLinear().domain([0, 20000000]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([0, 20000000]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     if (activeCategory.startsWith("over_65")) {
-      return scaleLinear().domain([15, 30]).range(["#fdf4ff", "#701a75"])(waarde);
+      return scaleLinear().domain([15, 30]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     return "#E2E8F0";
   };
@@ -150,7 +162,7 @@ export default function MapComponent({ activeCategory, currentData }) {
                     textAnchor="middle"
                     y={1} // Gecentreerd op de coördinaat nu de landcode weg is
                     className="fill-slate-700 font-sans font-bold select-none pointer-events-none"
-                    style={{ fontSize: "3.5px" }} // Ietsje groter gemaakt voor betere leesbaarheid
+                    style={{ fontSize: "3.2px" }} // Ietsje groter gemaakt voor betere leesbaarheid
                   >
                     {geformatteerdeWaarde}
                   </text>
