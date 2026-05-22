@@ -671,7 +671,7 @@
             "gdp_per_capita_nominal": 30380.0
         }
     },
-    "EL": {
+    "GR": {
         "2016": {
             "gdp_nominal_millions": 174448.2,
             "gdp_per_capita_nominal": 16190.0
@@ -1805,7 +1805,7 @@
             "gdp_per_capita_nominal": null
         }
     },
-    "UK": {
+    "GB": {
         "2016": {
             "gdp_nominal_millions": 2434119.2,
             "gdp_per_capita_nominal": 37080.0
