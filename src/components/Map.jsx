@@ -34,10 +34,12 @@ const landCentroids = [
   { code: "HR", coordinates: [15.2000, 45.1000] }, 
   { code: "LU", coordinates: [6.356654197554594, 49.47084450074868] }, 
   { code: "SI", coordinates: [14.9955, 46.1512] }, 
+  { code: "SK", coordinates: [19.544901653957233, 48.66921790666701] }, 
   { code: "RS", coordinates: [21.0059, 44.0165] }, 
   { code: "AL", coordinates: [19.336856385558466, 40.63342059919235] }, 
   { code: "MK", coordinates: [21.7453, 41.6086] }, 
-  { code: "ME", coordinates: [19.3744, 42.7086] }   
+  { code: "ME", coordinates: [19.3744, 42.7086] },
+  { code: "BA", coordinates: [17.740900630026974, 44.158872610652224] }     
 ];
 
 export default function MapComponent({ activeCategory, currentData }) { 
@@ -80,7 +82,7 @@ export default function MapComponent({ activeCategory, currentData }) {
       return scaleLinear().domain([10000, 100000000]).range(["#2dd4bf", "#115e59"])(waarde);
     } 
     if (activeCategory.startsWith("fertility_rate")) {
-      return scaleLinear().domain([0, 5]).range(["#2dd4bf", "#115e59"])(waarde);
+      return scaleLinear().domain([1, 2]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     if (activeCategory.startsWith("foreign_born")) {
       return scaleLinear().domain([0, 20000000]).range(["#2dd4bf", "#115e59"])(waarde);

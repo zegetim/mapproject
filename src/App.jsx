@@ -123,7 +123,7 @@ function App() {
   const huidigeKaartData = getGefilterdeData()
 
   return (
-    <div className="flex flex-col min-h-screen md:h-screen w-screen bg-white md:overflow-hidden">
+    <div className="flex flex-col min-h-screen md:h-screen w-screen bg-white overflow-x-hidden md:overflow-hidden">
       <Topbar></Topbar>
 
       <div className="z-20 bg-white py-3 flex flex-col items-center gap-0.5 ">
@@ -132,7 +132,7 @@ function App() {
             <button
               key={jaar}
               onClick={() => setActiveYear(jaar)}
-              className={`px-2.5 py-1 text-xs font-semibold rounded-lg transition-all duration-200 ${
+              className={`px-1.5 py-0.5 text-[10px] md:text-xs font-semibold rounded-lg transition-all duration-200 ${
                 activeYear === jaar
                   ? "bg-white text-slate-800 shadow-sm border border-slate-200/50 scale-105 font-bold"
                   : "text-slate-500 hover:text-slate-800 hover:bg-slate-200/40"
