@@ -9,7 +9,7 @@ export default function Topbar(){
                 alt="EuroMaps Logo" 
                 className="h-6 w-auto object-contain select-none"
                 />
-                <span className="font-semibold text-gray-800 tracking-tight">GeoData App</span>
+                {/* <span className="font-semibold text-gray-800 tracking-tight">GeoData App</span> */}
             </div>
 
             <div className="flex space-x-1">
