@@ -6,6 +6,7 @@ import './App.css'
 import MapComponent from './components/Map'
 import Sidebar from './components/Sidebar'
 import Topbar from './components/Topbar'
+import * as htmlToImage from 'html-to-image';
 
 function App() {
   const [activeCategory, setCategory] = useState("gdp")
@@ -120,6 +121,42 @@ function App() {
     return resultaat
   }
 
+  const maakScreenshot = () => {
+    const element = document.getElementById('map-capture');
+    if (!element) {
+      console.error("Kan de kaart-container #map-capture niet vinden!");
+      return;
+    }
+
+  
+
+    htmlToImage.toPng(element, {
+      quality: 1,
+      pixelRatio: 2,
+      backgroundColor: null, 
+      cacheBust: true, 
+      filter: (node) => {
+      if (node.tagName === 'BUTTON') {
+        return false; 
+      }
+      return true; 
+    },     
+      style: {
+        backgroundColor: 'transparent',
+        background: 'none',
+      }
+    })
+    .then((dataUrl) => {
+      const link = document.createElement('a');
+      link.download = `map_${activeCategory}_${activeYear}.png`;
+      link.href = dataUrl;
+      link.click();
+    })
+    .catch((error) => {
+      console.error('Oeps, er ging iets mis bij het maken van de PNG:', error);
+    });
+  };
+
   const huidigeKaartData = getGefilterdeData()
 
   return (
@@ -132,7 +169,7 @@ function App() {
             <button
               key={jaar}
               onClick={() => setActiveYear(jaar)}
-              className={`px-1.5 py-0.5 text-[10px] md:text-xs font-semibold rounded-lg transition-all duration-200 ${
+              className={`px-1.5 py-0.5 text-[10px] md:text-xs font-semibold rounded-lg transition-all duration-200 cursor-pointer ${
                 activeYear === jaar
                   ? "bg-white text-slate-800 shadow-sm border border-slate-200/50 scale-105 font-bold"
                   : "text-slate-500 hover:text-slate-800 hover:bg-slate-200/40"
@@ -150,9 +187,9 @@ function App() {
           <Sidebar activeCategory={activeCategory} setCategory={setCategory} />
         </div>
 
-        <div className="flex-1 h-[100vh] md:h-full relative rounded-xl overflow-hidden border border-gray-100 shadow-sm bg-slate-50">
+        <div id="map-capture" className="flex-1 h-[100vh] md:h-full relative rounded-xl overflow-hidden shadow-sm">
           {/* 6. Geef de actieve categorie en de gefilterde data mee aan de Kaart */}
-          <MapComponent activeCategory={activeCategory} currentData={huidigeKaartData} />
+          <MapComponent activeCategory={activeCategory} currentData={huidigeKaartData} onDownload={maakScreenshot} />
         </div>
       </div>
     </div>

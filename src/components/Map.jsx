@@ -42,7 +42,7 @@ const landCentroids = [
   { code: "BA", coordinates: [17.740900630026974, 44.158872610652224] }     
 ];
 
-export default function MapComponent({ activeCategory, currentData }) { 
+export default function MapComponent({ activeCategory, currentData, onDownload }) { 
   const [isMobile, setIsMobile] = useState(false);
   useEffect(() => {
     const handleResize = () => {
@@ -93,7 +93,13 @@ export default function MapComponent({ activeCategory, currentData }) {
     return "#E2E8F0";
   };
   return (
-    <div className="absolute inset-0 z-0 w-full h-full">
+    <div className="absolute inset-0 z-0 w-full h-full bg-transparent">
+      <button
+        onClick={onDownload}
+        className="absolute top-3 right-3 z-50 flex items-center gap-1.5 px-3 py-2 bg-white hover:bg-slate-50 text-slate-800 text-xs font-bold rounded-xl shadow-md border border-slate-200 transition-all duration-200 hover:scale-105 active:scale-95 select-none cursor-pointer"
+      >
+         <span>Download (.PNG)</span>
+      </button>
       <ComposableMap width={mapWidth} height={mapHeight}>
         <ZoomableGroup center={[10, 53]} zoom={mapZoom} disablePanning disableZooming>
           {/* <Sphere stroke="#E4E5E6" strokeWidth={0.5} /> */}
@@ -164,7 +170,7 @@ export default function MapComponent({ activeCategory, currentData }) {
                     textAnchor="middle"
                     y={1} // Gecentreerd op de coördinaat nu de landcode weg is
                     className="fill-slate-700 font-sans font-bold select-none pointer-events-none"
-                    style={{ fontSize: "3.2px" }} // Ietsje groter gemaakt voor betere leesbaarheid
+                    style={{ fontSize: "2.8px" }} // Ietsje groter gemaakt voor betere leesbaarheid
                   >
                     {geformatteerdeWaarde}
                   </text>

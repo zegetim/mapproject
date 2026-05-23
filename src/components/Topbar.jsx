@@ -1,4 +1,4 @@
-import siteLogo from '../assets/logomap2.png'
+import siteLogo from '../assets/logomap3.png'
 
 export default function Topbar(){
     return(
