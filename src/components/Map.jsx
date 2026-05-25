@@ -76,7 +76,7 @@ export default function MapComponent({ activeCategory, currentData, onDownload }
     }
     // Voor de migratie knoppen
     if (activeCategory.endsWith("migration")) {
-      return scaleLinear().domain([10000, 3000000]).range(["#2dd4bf", "#115e59"])(waarde);
+      return scaleLinear().domain([10000, 1500000]).range(["#2dd4bf", "#115e59"])(waarde);
     }
     if (activeCategory.startsWith("population")) {
       return scaleLinear().domain([10000, 100000000]).range(["#2dd4bf", "#115e59"])(waarde);
@@ -90,6 +90,7 @@ export default function MapComponent({ activeCategory, currentData, onDownload }
     if (activeCategory.startsWith("over_65")) {
       return scaleLinear().domain([15, 30]).range(["#2dd4bf", "#115e59"])(waarde);
     }
+    
     return "#E2E8F0";
   };
   return (
@@ -150,15 +151,29 @@ export default function MapComponent({ activeCategory, currentData, onDownload }
             
             // 2. Maak het getal mooi leesbaar (bijv. 1000000 wordt 1M, of krijgt puntjes)
             let geformatteerdeWaarde = "";
+
             if (rawWaarde !== undefined && rawWaarde !== null) {
-              if (rawWaarde >= 1000000000) {
-                geformatteerdeWaarde = `${(rawWaarde / 1000000000).toFixed(1)}B`; // Miljard
-              } else if (rawWaarde >= 1000000) {
-                geformatteerdeWaarde = `${(rawWaarde / 1000000).toFixed(1)}M`; // Miljoen
-              } else if (rawWaarde >= 1000) {
-                geformatteerdeWaarde = `${(rawWaarde / 1000).toFixed(0)}K`; // Duizend
+              if (activeCategory === "gdp") {
+                // GDP LOGICA (Data is al in miljoenen)
+                // Voorbeeld: 3.400.000 miljoen = 3,4 Biljoen (Trillion)
+                if (rawWaarde >= 1000000) {
+                  geformatteerdeWaarde = `${(rawWaarde / 1000000).toFixed(1)}T`; // Trillion / Biljoen
+                } else if (rawWaarde >= 1000) {
+                  geformatteerdeWaarde = `${(rawWaarde / 1000).toFixed(1)}B`; // Billion / Miljard
+                } else {
+                  geformatteerdeWaarde = `${rawWaarde.toFixed(0)}M`; // Million / Miljoen
+                }
               } else {
-                geformatteerdeWaarde = rawWaarde.toString();
+                // NORMALE LOGICA (Voor populatie, migratie, etc.)
+                if (rawWaarde >= 1000000000) {
+                  geformatteerdeWaarde = `${(rawWaarde / 1000000000).toFixed(1)}B`; // Miljard
+                } else if (rawWaarde >= 1000000) {
+                  geformatteerdeWaarde = `${(rawWaarde / 1000000).toFixed(1)}M`; // Miljoen
+                } else if (rawWaarde >= 1000) {
+                  geformatteerdeWaarde = `${(rawWaarde / 1000).toFixed(0)}K`; // Duizend
+                } else {
+                  geformatteerdeWaarde = rawWaarde.toString();
+                }
               }
             }
 
@@ -166,6 +181,17 @@ export default function MapComponent({ activeCategory, currentData, onDownload }
               <Marker key={code} coordinates={coordinates}>
                 {/* Alleen de Waarde tonen, perfect verticaal gecentreerd op het land */}
                 {geformatteerdeWaarde && (
+                  <g>
+                    <rect
+                      x={-(geformatteerdeWaarde.length * 1.05)} 
+                      y={-1.6}                                  
+                      width={geformatteerdeWaarde.length * 2.1} 
+                      height={3.2}                            
+                      rx={1}                                    
+                      ry={1}                              
+                      fill="#FFFFFF"                           
+                      opacity={0.9}                            
+                    />
                   <text
                     textAnchor="middle"
                     y={1} // Gecentreerd op de coördinaat nu de landcode weg is
@@ -174,6 +200,7 @@ export default function MapComponent({ activeCategory, currentData, onDownload }
                   >
                     {geformatteerdeWaarde}
                   </text>
+                  </g>
                 )}
               </Marker>
             );

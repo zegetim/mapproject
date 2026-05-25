@@ -10,7 +10,7 @@ export default function Sidebar({ activeCategory, setCategory }){
                         activeCategory === "gdp" ? "bg-blue-500 text-white" : "bg-gray-200 hover:bg-blue-50 text-black"
                         }`}
                     >
-                        GDP
+                        GDP (€)
                     </button>
                     <button 
                         onClick={() => setCategory("gdp_pc")}
@@ -18,7 +18,7 @@ export default function Sidebar({ activeCategory, setCategory }){
                         activeCategory === "gdp_pc" ? "bg-blue-500 text-white" : "bg-gray-200 hover:bg-blue-50 text-black"
                         }`}
                     >
-                        GDP pc
+                        GDP pc (€)
                     </button>
                     {/* <button 
                         onClick={() => setCategory("ppp")}

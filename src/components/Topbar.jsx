@@ -19,9 +19,9 @@ export default function Topbar(){
                 {/* <button className="px-4 py-2 text-sm font-medium text-gray-500 hover:text-gray-800 hover:bg-gray-50 rounded-lg transition-all cursor-pointer">
                 Tables
                 </button> */}
-                <button className="px-4 py-2 text-sm font-medium text-gray-500 hover:text-gray-800 hover:bg-gray-50 rounded-lg transition-all cursor-pointer">
+                {/* <button className="px-4 py-2 text-sm font-medium text-gray-500 hover:text-gray-800 hover:bg-gray-50 rounded-lg transition-all cursor-pointer">
                 Predictions
-                </button>
+                </button> */}
             </div>
         </nav>
     )
